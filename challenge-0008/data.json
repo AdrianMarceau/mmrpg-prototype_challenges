@@ -1,0 +1,112 @@
+{
+    "challenge_id": 8,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Dreams of Electric Sheep",
+    "challenge_description": "Defeat the fleecy foe Sheep Man and his band of electric goons in this nightmarish Special Event Mission! If you can defeat Sheep Man using only Neutral-type abilities you'll unlock him! Good luck!",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 8,
+    "challenge_field_data": {
+        "field_background": "power-plant",
+        "field_foreground": "space-simulator",
+        "field_music": "sega-remix\/sheep-man-mm10",
+        "values": {
+            "hazards": {
+                "super_blocks": "right",
+                "black_holes": "left"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "sheep-man",
+                "robot_item": "space-core",
+                "robot_abilities": [
+                    "thunder-wool",
+                    "electric-buster",
+                    "space-buster"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "elec-man",
+                "robot_image": "elec-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "electric-buster",
+                    "buster-relay",
+                    "thunder-beam",
+                    "attack-boost"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "spark-man",
+                "robot_image": "spark-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "electric-buster",
+                    "buster-relay",
+                    "bright-burst",
+                    "attack-boost"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "gravity-man",
+                "robot_image": "gravity-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "electric-buster",
+                    "buster-relay",
+                    "electric-overdrive",
+                    "attack-boost"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 1557,
+    "challenge_times_concluded": 1516,
+    "challenge_user_victories": 208,
+    "challenge_user_defeats": 1314,
+    "challenge_date_created": 1552758261,
+    "challenge_date_modified": 1558993930
+}

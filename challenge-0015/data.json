@@ -1,0 +1,153 @@
+{
+    "challenge_id": 15,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Fun-in-the-Sun Solar Workout Rerun",
+    "challenge_description": "Solar Man gets his shot at redemption! Train hard if you want to defeat him and his gang of pumped-up workout buddies in this blazing Special Event Mission! Defeat Solar Man using only Neutral-type attacks to unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 10,
+    "challenge_field_data": {
+        "field_background": "atomic-furnace",
+        "field_foreground": "preserved-forest",
+        "field_music": "sega-remix\/solar-man-mm10",
+        "values": {
+            "hazards": {
+                "crude_oil": "left",
+                "super_blocks": "right-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "solar-man",
+                "robot_item": "xtreme-module",
+                "robot_abilities": [
+                    "solar-blaze",
+                    "atomic-crasher",
+                    "fire-chaser",
+                    "defense-boost",
+                    "attack-boost",
+                    "speed-boost",
+                    "buster-charge",
+                    "omega-pulse"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "guts-man",
+                "robot_image": "guts-man_alt9",
+                "robot_item": "flame-core",
+                "robot_abilities": [
+                    "super-arm",
+                    "atomic-crasher",
+                    "astro-crush",
+                    "dust-crusher",
+                    "solar-blaze",
+                    "metal-press",
+                    "oil-slider",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 2,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "hard-man",
+                "robot_image": "hard-man_alt9",
+                "robot_item": "flame-core",
+                "robot_abilities": [
+                    "hard-knuckle",
+                    "atomic-crasher",
+                    "super-arm",
+                    "astro-crush",
+                    "solar-blaze",
+                    "oil-slider",
+                    "metal-press",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "dive-man",
+                "robot_image": "dive-man_alt9",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "dive-torpedo",
+                    "bubble-bomb",
+                    "drill-blitz",
+                    "freeze-cracker",
+                    "solar-blaze",
+                    "needle-cannon",
+                    "crash-bomber",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 2,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "bench"
+                }
+            },
+            {
+                "robot_token": "quick-man",
+                "robot_image": "quick-man_alt9",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "fire-chaser",
+                    "quick-strike",
+                    "quick-boomerang",
+                    "scramble-thunder",
+                    "core-laser",
+                    "buster-charge",
+                    "top-spin",
+                    "crash-avenger"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 0,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "bench"
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 699,
+    "challenge_times_concluded": 620,
+    "challenge_user_victories": 94,
+    "challenge_user_defeats": 526,
+    "challenge_date_created": 1557013037,
+    "challenge_date_modified": 1557594371
+}

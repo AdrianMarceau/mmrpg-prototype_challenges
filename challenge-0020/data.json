@@ -1,0 +1,20 @@
+{
+    "challenge_id": 20,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Test Challenge",
+    "challenge_description": "",
+    "challenge_robot_limit": 0,
+    "challenge_turn_limit": 0,
+    "challenge_field_data": [],
+    "challenge_target_data": [],
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 0,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1600900057,
+    "challenge_date_modified": 0
+}

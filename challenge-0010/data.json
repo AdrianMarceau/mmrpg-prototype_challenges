@@ -1,0 +1,111 @@
+{
+    "challenge_id": 10,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Rising Tides, Crashing Skies",
+    "challenge_description": "Weather the rainstorm to defeat Dynamo Man and his knot of slippery cohorts in this shocking Special Event Mission! If you can defeat Dynamo Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 15,
+    "challenge_field_data": {
+        "field_background": "rainy-sewers",
+        "field_foreground": "power-plant",
+        "field_music": "sega-remix\/dynamo-man-rnf",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left",
+                "super_blocks": "right"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "dynamo-man",
+                "robot_item": "water-core",
+                "robot_abilities": [
+                    "dynamo-bolt",
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt9",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "rain-flush",
+                    "core-laser",
+                    "thunder-strike",
+                    "field-support"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush",
+                    "core-laser",
+                    "energy-break",
+                    "energy-mode"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt9",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "rain-flush",
+                    "core-laser",
+                    "thunder-strike",
+                    "field-support"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 1448,
+    "challenge_times_concluded": 1606,
+    "challenge_user_victories": 431,
+    "challenge_user_defeats": 1175,
+    "challenge_date_created": 1553047891,
+    "challenge_date_modified": 1558993925
+}

@@ -1,0 +1,136 @@
+{
+    "challenge_id": 16,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Hornet's Animal Kingdom",
+    "challenge_description": "With a calvary of rabid hornets and Robot Masters at his side, Hornet Man's reclaimed the wilds in order to create a perfect polli-nation! Defeat Hornet Man using only Neutral-type attacks to unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 20,
+    "challenge_field_data": {
+        "field_background": "preserved-forest",
+        "field_foreground": "final-destination",
+        "field_music": "sega-remix\/hornet-man-mm9",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-active",
+                "acid_globs": "left-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "hornet-man",
+                "robot_abilities": [
+                    "hornet-chaser",
+                    "leaf-shield",
+                    "energy-boost",
+                    "attack-break",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "snake-man",
+                "robot_image": "snake-man_alt9",
+                "robot_abilities": [
+                    "mecha-support",
+                    "energy-boost",
+                    "leaf-shield",
+                    "search-snake",
+                    "attack-break",
+                    "nature-overdrive",
+                    "buster-charge",
+                    "field-support"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 2,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt9",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "acid-barrier",
+                    "energy-mode",
+                    "energy-boost",
+                    "acid-glob"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "sheep-man",
+                "robot_image": "sheep-man_alt9",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "energy-mode",
+                    "energy-boost",
+                    "thunder-wool",
+                    "electric-overdrive",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "plant-man",
+                "robot_image": "plant-man_alt9",
+                "robot_item": "extra-life",
+                "robot_abilities": [
+                    "field-support",
+                    "attack-swap",
+                    "leaf-fall"
+                ],
+                "counters": {
+                    "attack_mods": -3,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -3,
+                    "robot_focus": "active"
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 355,
+    "challenge_times_concluded": 264,
+    "challenge_user_victories": 56,
+    "challenge_user_defeats": 208,
+    "challenge_date_created": 1558407461,
+    "challenge_date_modified": 1558564694
+}

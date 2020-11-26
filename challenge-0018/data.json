@@ -1,0 +1,126 @@
+{
+    "challenge_id": 18,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "We Are The Crystal Gemstones",
+    "challenge_description": "An eclectic group of gemstone-based robots have appeared from outer-space and challenged you to a battle for control of Earth's resources! Defeat Crystal, Gemini, and Jewel... and Star Man(?) within the turn limit to win the battle and save the planet!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 20,
+    "challenge_field_data": {
+        "field_background": "reflection-chamber",
+        "field_foreground": "space-simulator",
+        "field_music": "sega-remix\/crystal-man-mm5",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-active",
+                "disco_balls": "left-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "crystal-man",
+                "robot_item": "space-core",
+                "robot_abilities": [
+                    "crystal-eye",
+                    "rhythm-satellite",
+                    "crystal-buster",
+                    "astro-crush",
+                    "defense-break",
+                    "buster-charge",
+                    "galaxy-bomb",
+                    "crystal-mind"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 1,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "gemini-man",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "gemini-clone",
+                    "gemini-laser",
+                    "speed-break",
+                    "buster-charge",
+                    "omega-pulse",
+                    "crystal-shot",
+                    "crystal-mind",
+                    "jewel-polish"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "jewel-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "jewel-satellite",
+                    "omega-wave",
+                    "core-laser",
+                    "buster-charge",
+                    "attack-break",
+                    "field-support",
+                    "crystal-shot",
+                    "jewel-polish"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 3,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "star-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "core-shield",
+                    "astro-crush",
+                    "core-laser",
+                    "buster-charge",
+                    "energy-mode",
+                    "star-crash",
+                    "omega-pulse",
+                    "space-buster"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 4,
+                    "robot_focus": "bench"
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 308,
+    "challenge_times_concluded": 240,
+    "challenge_user_victories": 88,
+    "challenge_user_defeats": 152,
+    "challenge_date_created": 1563474389,
+    "challenge_date_modified": 1605747437
+}

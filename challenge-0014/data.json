@@ -1,0 +1,147 @@
+{
+    "challenge_id": 14,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Welcome to My Chemical Paradise",
+    "challenge_description": "Feel the burn of Acid Man's chemical weapons as you fight against him and his shady friends in this bio-hazard of a Special Event Mission! If you can defeat Acid Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 16,
+    "challenge_field_data": {
+        "field_background": "septic-system",
+        "field_foreground": "waterfall-institute",
+        "field_music": "mm11-ost\/acid-man",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-active",
+                "acid_globs": "left-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "acid-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "acid-glob",
+                    "buster-charge",
+                    "omega-wave",
+                    "energy-mode",
+                    "acid-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 4,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -5,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "sheep-man",
+                "robot_image": "sheep-man_alt9",
+                "robot_item": "shadow-core",
+                "robot_abilities": [
+                    "thunder-wool",
+                    "scramble-thunder",
+                    "thunder-beam",
+                    "core-laser",
+                    "buster-shot",
+                    "buster-charge",
+                    "shadow-blade",
+                    "bass-crush"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 3,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "galaxy-man",
+                "robot_image": "galaxy-man_alt9",
+                "robot_item": "shadow-core",
+                "robot_abilities": [
+                    "galaxy-bomb",
+                    "astro-crush",
+                    "gravity-hold",
+                    "core-laser",
+                    "buster-shot",
+                    "buster-charge",
+                    "shadow-blade",
+                    "ring-boomerang"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 3,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "snake-man",
+                "robot_image": "snake-man_alt9",
+                "robot_item": "shadow-core",
+                "robot_abilities": [
+                    "search-snake",
+                    "leaf-shield",
+                    "leaf-fall",
+                    "core-laser",
+                    "buster-shot",
+                    "buster-charge",
+                    "shadow-blade",
+                    "skull-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 2,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 3,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bubble-man",
+                "robot_image": "bubble-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "field-support",
+                    "energy-break",
+                    "energy-boost",
+                    "water-shield",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -5,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 635,
+    "challenge_times_concluded": 429,
+    "challenge_user_victories": 110,
+    "challenge_user_defeats": 319,
+    "challenge_date_created": 1556403140,
+    "challenge_date_modified": 1556478487
+}

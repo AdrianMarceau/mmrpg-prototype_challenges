@@ -1,0 +1,153 @@
+{
+    "challenge_id": 17,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Plant Man\u2019s Secret Garden",
+    "challenge_description": "Plant Man is holding a secret garden party for him and his closest friends, but apparently you've come to crash it - how rude! Anyway, defeat Plant Man using only Neutral-type attacks to unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 5,
+    "challenge_turn_limit": 15,
+    "challenge_field_data": {
+        "field_background": "preserved-forest",
+        "field_foreground": "spinning-greenhouse",
+        "field_music": "sega-remix\/plant-man-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-active",
+                "acid_globs": "left-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "plant-man",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "plant-barrier",
+                    "hornet-chaser",
+                    "energy-break",
+                    "defense-swap",
+                    "omega-pulse",
+                    "attack-break",
+                    "buster-charge",
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "solar-man",
+                "robot_image": "solar-man_alt9",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "solar-blaze",
+                    "buster-charge",
+                    "atomic-crasher",
+                    "crash-avenger",
+                    "flame-shot",
+                    "hyper-bomb",
+                    "energy-break",
+                    "galaxy-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "pump-man",
+                "robot_image": "pump-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "water-shield",
+                    "buster-charge",
+                    "jewel-satellite",
+                    "star-crash",
+                    "air-twister",
+                    "leaf-shield",
+                    "water-shot",
+                    "energy-break"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -2,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "hornet-man",
+                "robot_image": "hornet-man_alt9",
+                "robot_item": "missile-core",
+                "robot_abilities": [
+                    "hornet-chaser",
+                    "buster-charge",
+                    "plant-barrier",
+                    "leaf-shield",
+                    "drill-blitz",
+                    "needle-cannon",
+                    "core-laser",
+                    "energy-break"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": "bench"
+                }
+            },
+            {
+                "robot_token": "snake-man",
+                "robot_image": "snake-man_alt9",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "search-snake",
+                    "buster-charge",
+                    "oil-slider",
+                    "astro-crush",
+                    "nature-overdrive",
+                    "metal-press",
+                    "leaf-fall",
+                    "omega-wave"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -2,
+                    "robot_focus": "active"
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 543,
+    "challenge_times_concluded": 405,
+    "challenge_user_victories": 78,
+    "challenge_user_defeats": 327,
+    "challenge_date_created": 1559156266,
+    "challenge_date_modified": 1559181024
+}

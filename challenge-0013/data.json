@@ -1,0 +1,198 @@
+{
+    "challenge_id": 13,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Pump's Agents of W.A.T.E.R. Shield",
+    "challenge_description": "Take on Pump Man and his team of Witty And Totally Excellent Robots in this wet and highly shield-focused Special Event Mission! If you can defeat Pump Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 14,
+    "challenge_field_data": {
+        "field_background": "rainy-sewers",
+        "field_foreground": "preserved-forest",
+        "field_music": "sega-remix\/pump-man-mm10",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left",
+                "super_blocks": "right-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "pump-man",
+                "robot_item": "laser-core",
+                "robot_abilities": [
+                    "water-shield",
+                    "energy-boost",
+                    "buster-charge",
+                    "gemini-laser",
+                    "thunder-beam"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "air-man",
+                "robot_image": "air-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "air-twister",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "dust-crusher",
+                    "gyro-attack",
+                    "core-laser"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "wood-man",
+                "robot_image": "wood-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "leaf-shield",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "nature-buster",
+                    "leaf-fall",
+                    "search-snake"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "skull-man",
+                "robot_image": "skull-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "skull-barrier",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "crash-avenger",
+                    "shadow-blade",
+                    "bass-crush"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "star-man",
+                "robot_image": "star-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "star-crash",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "astro-crush",
+                    "galaxy-bomb",
+                    "ring-boomerang"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "jewel-man",
+                "robot_image": "jewel-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "jewel-satellite",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "gemini-laser",
+                    "flash-stopper",
+                    "crystal-overdrive"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "guts-man",
+                "robot_image": "guts-man_alt9",
+                "robot_item": "shield-core",
+                "robot_abilities": [
+                    "super-arm",
+                    "shield-buster",
+                    "buster-charge",
+                    "energy-break",
+                    "water-shield",
+                    "oil-slider",
+                    "astro-crush",
+                    "atomic-crasher"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 543,
+    "challenge_times_concluded": 448,
+    "challenge_user_victories": 110,
+    "challenge_user_defeats": 338,
+    "challenge_date_created": 1555967666,
+    "challenge_date_modified": 1558993913
+}

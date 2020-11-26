@@ -1,0 +1,110 @@
+{
+    "challenge_id": 11,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Faster Than the Speed of Sound",
+    "challenge_description": "Think fast if you want to defeat Fuse Man and his charge of speedy brethren in this sparking Special Event Mission! If you can defeat Fuse Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 8,
+    "challenge_field_data": {
+        "field_background": "lighting-control",
+        "field_foreground": "underground-laboratory",
+        "field_music": "mm11-ost\/fuse-man",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left",
+                "super_blocks": "right"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "fuse-man",
+                "robot_item": "swift-core",
+                "robot_abilities": [
+                    "scramble-thunder",
+                    "quick-strike",
+                    "bright-burst"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 1,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "quick-man",
+                "robot_image": "quick-man_alt9",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "quick-boomerang",
+                    "scramble-thunder",
+                    "quick-strike",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "charge-man",
+                "robot_image": "charge-man_alt9",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "fire-chaser",
+                    "scramble-thunder",
+                    "quick-strike"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 1,
+                    "speed_mods": -3
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "top-man",
+                "robot_image": "top-man_alt9",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "energy-break",
+                    "scramble-thunder",
+                    "quick-strike"
+                ],
+                "counters": {
+                    "attack_mods": -3,
+                    "defense_mods": 4,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 2,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 1371,
+    "challenge_times_concluded": 1508,
+    "challenge_user_victories": 161,
+    "challenge_user_defeats": 1347,
+    "challenge_date_created": 1553956636,
+    "challenge_date_modified": 1558993921
+}

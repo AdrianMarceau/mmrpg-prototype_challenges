@@ -1,0 +1,113 @@
+{
+    "challenge_id": 12,
+    "challenge_kind": "event",
+    "challenge_creator": 0,
+    "challenge_name": "Super Cool Water Balloon Fight",
+    "challenge_description": "Bring your A-game if you want to defeat Aqua Man and his team of super cool dudes in this splashing Special Event Mission! If you can defeat Aqua Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 10,
+    "challenge_field_data": {
+        "field_background": "waterfall-institute",
+        "field_foreground": "arctic-jungle",
+        "field_music": "sega-remix\/aqua-man-mm8",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left",
+                "super_blocks": "right"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "aqua-man",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "water-balloon",
+                    "buster-charge",
+                    "energy-break",
+                    "attack-swap",
+                    "defense-swap"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "ice-man",
+                "robot_image": "ice-man_alt9",
+                "robot_item": "water-core",
+                "robot_abilities": [
+                    "water-balloon",
+                    "blizzard-attack",
+                    "bubble-spray"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 1,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "freeze-man",
+                "robot_image": "freeze-man_alt9",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "freeze-cracker",
+                    "energy-break",
+                    "frost-wave",
+                    "blizzard-attack",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bubble-man",
+                "robot_image": "bubble-man_alt9",
+                "robot_item": "freeze-core",
+                "robot_abilities": [
+                    "blizzard-attack",
+                    "water-balloon",
+                    "bubble-spray"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 1,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 967,
+    "challenge_times_concluded": 885,
+    "challenge_user_victories": 74,
+    "challenge_user_defeats": 811,
+    "challenge_date_created": 1555188664,
+    "challenge_date_modified": 1558993917
+}
