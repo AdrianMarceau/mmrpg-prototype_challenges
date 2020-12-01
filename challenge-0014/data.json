@@ -1,7 +1,7 @@
 {
     "challenge_id": 14,
     "challenge_kind": "event",
-    "challenge_creator": 0,
+    "challenge_creator": "",
     "challenge_name": "Welcome to My Chemical Paradise",
     "challenge_description": "Feel the burn of Acid Man's chemical weapons as you fight against him and his shady friends in this bio-hazard of a Special Event Mission! If you can defeat Acid Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
     "challenge_robot_limit": 4,
@@ -9,7 +9,7 @@
     "challenge_field_data": {
         "field_background": "septic-system",
         "field_foreground": "waterfall-institute",
-        "field_music": "mm11-ost\/acid-man",
+        "field_music": "sega-remix\/acid-man-mm11",
         "values": {
             "hazards": {
                 "super_blocks": "right-active",
@@ -143,5 +143,5 @@
     "challenge_user_victories": 110,
     "challenge_user_defeats": 319,
     "challenge_date_created": 1556403140,
-    "challenge_date_modified": 1556478487
+    "challenge_date_modified": 1606789972
 }
