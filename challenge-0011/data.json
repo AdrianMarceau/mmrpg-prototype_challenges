@@ -1,7 +1,7 @@
 {
     "challenge_id": 11,
     "challenge_kind": "event",
-    "challenge_creator": 0,
+    "challenge_creator": "",
     "challenge_name": "Faster Than the Speed of Sound",
     "challenge_description": "Think fast if you want to defeat Fuse Man and his charge of speedy brethren in this sparking Special Event Mission! If you can defeat Fuse Man using only Neutral-type abilities, you'll unlock him for use in battle! Good luck!",
     "challenge_robot_limit": 4,
@@ -9,7 +9,7 @@
     "challenge_field_data": {
         "field_background": "lighting-control",
         "field_foreground": "underground-laboratory",
-        "field_music": "mm11-ost\/fuse-man",
+        "field_music": "sega-remix\/fuse-man-mm11",
         "values": {
             "hazards": {
                 "foamy_bubbles": "left",
@@ -106,5 +106,5 @@
     "challenge_user_victories": 161,
     "challenge_user_defeats": 1347,
     "challenge_date_created": 1553956636,
-    "challenge_date_modified": 1558993921
+    "challenge_date_modified": 1606789987
 }
