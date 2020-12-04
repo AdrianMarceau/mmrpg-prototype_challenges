@@ -1,0 +1,171 @@
+{
+    "challenge_id": 21,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Pirate Men Tell No Tales",
+    "challenge_description": "The seas replicated within the Prototype are vast -- and Pirate Man's laid claim to them all! Calling himself the 'Scourge of the Seven Seas', he's begun a new era of terror and pilfering! Defeat his crew, and the scourge himself, to give the ocean order!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 18,
+    "challenge_field_data": {
+        "field_background": "submerged-armory",
+        "field_foreground": "orb-city",
+        "field_music": "sega-remix\/pirate-man-rnf",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left-bench",
+                "frozen_footholds": "left-active",
+                "super_blocks": "right-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "pirate-man",
+                "robot_item": "attack-booster",
+                "robot_abilities": [
+                    "remote-mine",
+                    "hyper-bomb",
+                    "bubble-bomb",
+                    "acid-glob",
+                    "crash-avenger",
+                    "rain-flush",
+                    "water-shield",
+                    "danger-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 5,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "wave-man",
+                "robot_image": "wave-man_alt2",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "water-shield",
+                    "water-wave",
+                    "acid-glob",
+                    "buster-charge",
+                    "rain-flush",
+                    "laser-trident",
+                    "bubble-lead"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "dive-man",
+                "robot_image": "dive-man_alt",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "dive-torpedo",
+                    "hornet-chaser",
+                    "needle-cannon",
+                    "hard-knuckle",
+                    "buster-charge",
+                    "speed-mode"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 3,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "guts-man",
+                "robot_image": "guts-man_alt",
+                "robot_item": "chrono-circuit",
+                "robot_abilities": [
+                    "super-throw",
+                    "oil-slider",
+                    "astro-crush",
+                    "super-arm",
+                    "metal-press",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 4,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "disco",
+                "robot_image": "disco_alt5",
+                "robot_item": "charge-module",
+                "robot_abilities": [
+                    "energy-support",
+                    "rhythm-buster",
+                    "defense-boost",
+                    "energy-boost",
+                    "attack-boost",
+                    "disco-buster",
+                    "roll-buster",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 4,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": -3,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "skull-man",
+                "robot_image": "skull-man_alt2",
+                "robot_item": "sponge-circuit",
+                "robot_abilities": [
+                    "attack-boost",
+                    "crash-avenger",
+                    "skull-barrier",
+                    "defense-boost",
+                    "shadow-blade",
+                    "magic-card"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": -1,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 17,
+    "challenge_times_concluded": 24,
+    "challenge_user_victories": 12,
+    "challenge_user_defeats": 12,
+    "challenge_date_created": 1606866921,
+    "challenge_date_modified": 1607050889
+}
