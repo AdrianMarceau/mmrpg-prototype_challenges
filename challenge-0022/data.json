@@ -1,0 +1,117 @@
+{
+    "challenge_id": 22,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Explosions... Are Art!",
+    "challenge_description": "As an artist, Blast Man seeks to paint the world in explosions -- and he's looking to make you his greatest masterpiece! And with a team born from his own artist ego, he's no easy foe! Defeat the many Blast Men to keep the Prototype from being his canvas!",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 8,
+    "challenge_field_data": {
+        "field_background": "pipe-station",
+        "field_foreground": "orb-city",
+        "field_music": "sega-remix\/blast-man-mm11",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "blast-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "chain-blast",
+                    "field-support",
+                    "danger-bomb",
+                    "solar-blaze",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 3,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "blast-man",
+                "robot_image": "blast-man_alt",
+                "robot_item": "attack-diverter",
+                "robot_abilities": [
+                    "chain-blast",
+                    "galaxy-bomb",
+                    "field-support",
+                    "crash-bomber",
+                    "energy-boost"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blast-man",
+                "robot_image": "blast-man_alt2",
+                "robot_item": "defense-diverter",
+                "robot_abilities": [
+                    "hyper-bomb",
+                    "danger-bomb",
+                    "freeze-cracker",
+                    "chain-blast",
+                    "crash-avenger",
+                    "field-support"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 4,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blast-man",
+                "robot_image": "blast-man_alt4",
+                "robot_item": "speed-diverter",
+                "robot_abilities": [
+                    "crash-bomber",
+                    "chain-blast",
+                    "field-support",
+                    "solar-blaze",
+                    "bubble-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 46,
+    "challenge_times_concluded": 31,
+    "challenge_user_victories": 8,
+    "challenge_user_defeats": 23,
+    "challenge_date_created": 1608011030,
+    "challenge_date_modified": 1608517654
+}
