@@ -70,14 +70,13 @@
             {
                 "robot_token": "dive-man",
                 "robot_image": "dive-man_alt",
-                "robot_item": "reverse-module",
                 "robot_abilities": [
                     "dive-torpedo",
                     "hornet-chaser",
                     "needle-cannon",
                     "hard-knuckle",
                     "buster-charge",
-                    "speed-mode"
+                    "field-support"
                 ],
                 "counters": {
                     "attack_mods": 2,
@@ -167,5 +166,5 @@
     "challenge_user_victories": 12,
     "challenge_user_defeats": 12,
     "challenge_date_created": 1606866921,
-    "challenge_date_modified": 1607050889
+    "challenge_date_modified": 1611187301
 }
