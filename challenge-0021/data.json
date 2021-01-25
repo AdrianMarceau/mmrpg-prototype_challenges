@@ -70,6 +70,7 @@
             {
                 "robot_token": "dive-man",
                 "robot_image": "dive-man_alt",
+                "robot_item": "super-capsule",
                 "robot_abilities": [
                     "dive-torpedo",
                     "hornet-chaser",
@@ -166,5 +167,5 @@
     "challenge_user_victories": 12,
     "challenge_user_defeats": 12,
     "challenge_date_created": 1606866921,
-    "challenge_date_modified": 1611187301
+    "challenge_date_modified": 1611534643
 }
