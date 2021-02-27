@@ -1,0 +1,54 @@
+{
+    "challenge_id": 24,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Air Man the Undefeatable",
+    "challenge_description": "",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 6,
+    "challenge_field_data": {
+        "field_background": "sky-ridge",
+        "field_foreground": "final-destination-2",
+        "field_music": "sega-remix\/air-man-mm2",
+        "values": {
+            "hazards": {
+                "super_blocks": "right"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "air-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "air-shooter",
+                    "dust-crusher",
+                    "energy-mode",
+                    "air-twister",
+                    "gyro-attack",
+                    "mecha-support"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 2,
+    "challenge_times_concluded": 2,
+    "challenge_user_victories": 1,
+    "challenge_user_defeats": 1,
+    "challenge_date_created": 1613166146,
+    "challenge_date_modified": 1614135476
+}
