@@ -1,0 +1,75 @@
+{
+    "challenge_id": 23,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "And Yet the Earth Does Move",
+    "challenge_description": "",
+    "challenge_robot_limit": 0,
+    "challenge_turn_limit": 0,
+    "challenge_field_data": {
+        "field_background": "lighting-control",
+        "field_foreground": "space-simulator",
+        "field_music": "sega-remix\/gravity-man-mm5",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left-active",
+                "super_blocks": "right"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "gravity-man",
+                "robot_item": "charge-module",
+                "robot_abilities": [
+                    "dynamo-bolt",
+                    "gravity-hold",
+                    "energy-mode",
+                    "thunder-wool"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "rhythm",
+                "robot_image": "rhythm_alt4",
+                "robot_item": "space-core",
+                "robot_abilities": [
+                    "attack-break",
+                    "field-support",
+                    "buster-relay",
+                    "defense-assault",
+                    "core-shield",
+                    "astro-crush"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 5,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 1,
+    "challenge_times_concluded": 1,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 1,
+    "challenge_date_created": 1613096865,
+    "challenge_date_modified": 1614135482
+}
