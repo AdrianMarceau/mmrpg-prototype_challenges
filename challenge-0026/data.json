@@ -1,0 +1,120 @@
+{
+    "challenge_id": 26,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Knights of the Round Table",
+    "challenge_description": "With over a thousand foes in combat bested, Knight Man lays down the gauntlet -- he challenges every capable fighter in the Prototype to a duel! Claim your knighthood by defeating him and his united group of tournament world warriors! Good luck!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 12,
+    "challenge_field_data": {
+        "field_background": "cossack-citadel",
+        "field_foreground": "rocky-plateau",
+        "field_music": "sega-remix\/knight-man-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "knight-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "knight-crusher",
+                    "metal-press",
+                    "hard-knuckle",
+                    "dust-crusher",
+                    "buster-charge",
+                    "energy-mode"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -3,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "yamato-man",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "needle-cannon",
+                    "ice-slasher",
+                    "rising-cutter",
+                    "metal-press",
+                    "slash-claw",
+                    "buster-charge",
+                    "quick-boomerang"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 3,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "centaur-man",
+                "robot_item": "fortune-module",
+                "robot_abilities": [
+                    "time-arrow",
+                    "flash-stopper",
+                    "flash-pulse",
+                    "bright-burst",
+                    "galaxy-bomb",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "tomahawk-man",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "super-arm",
+                    "oil-slider",
+                    "drill-blitz",
+                    "block-dropper",
+                    "buster-charge",
+                    "knight-crusher",
+                    "atomic-crasher",
+                    "hard-knuckle"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 109,
+    "challenge_times_concluded": 70,
+    "challenge_user_victories": 34,
+    "challenge_user_defeats": 36,
+    "challenge_date_created": 1621458264,
+    "challenge_date_modified": 1621903464
+}
