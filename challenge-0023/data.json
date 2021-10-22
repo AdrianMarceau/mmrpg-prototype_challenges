@@ -60,6 +60,38 @@
                     "robot_switch": 0,
                     "robot_focus": ""
                 }
+            },
+            {
+                "robot_token": "bomb-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "danger-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "top-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "charge-kick"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 3,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
             }
         ]
     },
@@ -71,5 +103,5 @@
     "challenge_user_victories": 0,
     "challenge_user_defeats": 1,
     "challenge_date_created": 1613096865,
-    "challenge_date_modified": 1614135482
+    "challenge_date_modified": 1633918857
 }
