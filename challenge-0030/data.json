@@ -1,0 +1,52 @@
+{
+    "challenge_id": 30,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Tear Down this Wall!",
+    "challenge_description": "Wood Man is a pacifist, so don't expect him to be throwing any punches. He'll be content to sit there, absorbing all of your attacks. What strategies can you can up with to cut him down as quickly as possible? Good luck!",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 8,
+    "challenge_field_data": {
+        "field_background": "mountain-mines",
+        "field_foreground": "waterfall-institute",
+        "field_music": "sega-remix\/wood-man-mm2",
+        "values": {
+            "hazards": {
+                "super_blocks": "right",
+                "disco_balls": "left"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "wood-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "leaf-shield",
+                    "plant-barrier",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 5,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 33,
+    "challenge_times_concluded": 11,
+    "challenge_user_victories": 8,
+    "challenge_user_defeats": 3,
+    "challenge_date_created": 1633289839,
+    "challenge_date_modified": 1634841499
+}
