@@ -1,0 +1,161 @@
+{
+    "challenge_id": 29,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Charge Kickoff",
+    "challenge_description": "Charge Man's still pretty steamed for not being invited to play Soccer the last time -- hadn't they seen his Charge Kick? As a result, Charge Man's taken over the field for an impromptu Soccer game! Stop this runaway train, and pull a hat trick on him too!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 25,
+    "challenge_field_data": {
+        "field_background": "final-destination",
+        "field_foreground": "underground-laboratory",
+        "field_music": "sega-remix\/charge-man-mm5"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "charge-man",
+                "robot_item": "attack-diverter",
+                "robot_abilities": [
+                    "charge-kick",
+                    "buster-charge",
+                    "energy-mode",
+                    "quick-strike"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "mega-man",
+                "robot_item": "speed-booster",
+                "robot_abilities": [
+                    "mega-ball",
+                    "buster-charge",
+                    "charge-kick",
+                    "mega-slide"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 2,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bomb-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "hyper-bomb",
+                    "danger-bomb",
+                    "buster-charge",
+                    "solar-blaze",
+                    "energy-mode"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 1,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "cut-man",
+                "robot_abilities": [
+                    "rising-cutter",
+                    "buster-charge",
+                    "metal-press",
+                    "yamato-spear",
+                    "cutter-overdrive"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 1,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bubble-man",
+                "robot_abilities": [
+                    "bubble-lead",
+                    "water-balloon",
+                    "water-shield",
+                    "water-wave",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 2,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "top-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "charge-kick",
+                    "top-spin",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pharaoh-man",
+                "robot_item": "cosmo-circuit",
+                "robot_abilities": [
+                    "fire-chaser",
+                    "pharaoh-shot",
+                    "mecha-support",
+                    "atomic-crasher"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 1,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 13,
+    "challenge_times_concluded": 4,
+    "challenge_user_victories": 3,
+    "challenge_user_defeats": 1,
+    "challenge_date_created": 1633059278,
+    "challenge_date_modified": 1634188627
+}
