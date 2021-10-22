@@ -1,0 +1,113 @@
+{
+    "challenge_id": 28,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Duel At Ganryu Island",
+    "challenge_description": "Waves crash at Ganryu. --- The samurai waits for you. --- The challenge begins.",
+    "challenge_robot_limit": 5,
+    "challenge_turn_limit": 18,
+    "challenge_field_data": {
+        "field_background": "sky-ridge",
+        "field_foreground": "wily-castle",
+        "field_music": "sega-remix\/yamato-man-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "left-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "yamato-man",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "yamato-spear",
+                    "buster-charge",
+                    "rising-cutter"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "shadow-man",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "buster-charge",
+                    "bass-crush",
+                    "shadow-blade",
+                    "skull-barrier",
+                    "galaxy-bomb",
+                    "crash-avenger"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 3,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "tengu-man",
+                "robot_item": "water-core",
+                "robot_abilities": [
+                    "buster-charge",
+                    "air-twister",
+                    "rain-flush",
+                    "gyro-attack",
+                    "water-shield",
+                    "water-overdrive"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 3,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "enker",
+                "robot_item": "charge-module",
+                "robot_abilities": [
+                    "buster-charge",
+                    "plant-barrier",
+                    "air-twister",
+                    "water-shield",
+                    "jewel-satellite"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 71,
+    "challenge_times_concluded": 37,
+    "challenge_user_victories": 13,
+    "challenge_user_defeats": 24,
+    "challenge_date_created": 1632369677,
+    "challenge_date_modified": 1634854218
+}
