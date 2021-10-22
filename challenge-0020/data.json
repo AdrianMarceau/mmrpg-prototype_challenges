@@ -1,20 +1,44 @@
 {
     "challenge_id": 20,
     "challenge_kind": "event",
-    "challenge_creator": 0,
+    "challenge_creator": "",
     "challenge_name": "Test Challenge",
     "challenge_description": "",
-    "challenge_robot_limit": 0,
-    "challenge_turn_limit": 0,
-    "challenge_field_data": [],
-    "challenge_target_data": [],
+    "challenge_robot_limit": 8,
+    "challenge_turn_limit": 50,
+    "challenge_field_data": {
+        "field_background": "atomic-furnace",
+        "field_foreground": "steel-mill",
+        "field_music": "sega-remix\/robot-museum-mm7"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "burner-man",
+                "robot_item": "extra-life",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": -5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 0,
-    "challenge_times_concluded": 0,
-    "challenge_user_victories": 0,
+    "challenge_times_accessed": 19,
+    "challenge_times_concluded": 2,
+    "challenge_user_victories": 2,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 0
+    "challenge_date_modified": 1634006858
 }
