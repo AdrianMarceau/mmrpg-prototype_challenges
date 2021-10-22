@@ -21,7 +21,8 @@
                     "charge-kick",
                     "buster-charge",
                     "energy-mode",
-                    "quick-strike"
+                    "quick-strike",
+                    "mecha-support"
                 ],
                 "counters": {
                     "attack_mods": 2,
@@ -157,5 +158,5 @@
     "challenge_user_victories": 3,
     "challenge_user_defeats": 3,
     "challenge_date_created": 1633059278,
-    "challenge_date_modified": 1634867081
+    "challenge_date_modified": 1634879932
 }
