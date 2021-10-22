@@ -3,7 +3,7 @@
     "challenge_kind": "event",
     "challenge_creator": "",
     "challenge_name": "Charge Kickoff",
-    "challenge_description": "Charge Man's still pretty steamed for not being invited to play Soccer the last time -- hadn't they seen his Charge Kick? As a result, Charge Man's taken over the field for an impromptu Soccer game! Stop this runaway train, and pull a hat trick on him too!",
+    "challenge_description": "Charge Man's still pretty steamed for not being invited to play Soccer the last time -- hadn't they seen his Charge Kick? As a result, Charge Man's taken over the field for an impromptu Soccer game! Stop this runaway train, and go score on his team too!",
     "challenge_robot_limit": 4,
     "challenge_turn_limit": 25,
     "challenge_field_data": {
@@ -152,10 +152,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 13,
-    "challenge_times_concluded": 4,
+    "challenge_times_accessed": 18,
+    "challenge_times_concluded": 6,
     "challenge_user_victories": 3,
-    "challenge_user_defeats": 1,
+    "challenge_user_defeats": 3,
     "challenge_date_created": 1633059278,
-    "challenge_date_modified": 1634188627
+    "challenge_date_modified": 1634867081
 }
