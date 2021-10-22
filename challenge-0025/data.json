@@ -5,7 +5,7 @@
     "challenge_name": "Slip Sliding Away!",
     "challenge_description": "Blizzard Man and a cast of competitors have taken up their winter gear for olympic glory, but these skiing scoundrels have dominated winter sports for far too long! Take up their chilly challenge and give them a gold medal performance! Good luck!",
     "challenge_robot_limit": 3,
-    "challenge_turn_limit": 13,
+    "challenge_turn_limit": 15,
     "challenge_field_data": {
         "field_background": "arctic-jungle",
         "field_foreground": "wintry-forefront",
@@ -122,5 +122,5 @@
     "challenge_user_victories": 7,
     "challenge_user_defeats": 10,
     "challenge_date_created": 1614134725,
-    "challenge_date_modified": 1615007653
+    "challenge_date_modified": 1633918750
 }
