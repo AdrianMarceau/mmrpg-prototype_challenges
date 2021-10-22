@@ -1,0 +1,149 @@
+{
+    "challenge_id": 27,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Night of the Vampire",
+    "challenge_description": "You've accidently invited Shade Man and his coven into your home. Can you overcome their vampiric onslaught and vanquish their curse before the sun rises?",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 12,
+    "challenge_field_data": {
+        "field_background": "preserved-forest",
+        "field_foreground": "final-destination",
+        "field_music": "sega-remix\/shade-man-mm7"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "batton",
+                "robot_item": "forge-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "batton",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "batton",
+                "robot_item": "sponge-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "batton",
+                "robot_item": "cosmo-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "batton",
+                "robot_item": "sapling-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "batton",
+                "robot_item": "chrono-circuit",
+                "robot_abilities": [
+                    "batton-drain",
+                    "plant-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "shade-man",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "magic-card",
+                    "crash-avenger",
+                    "skull-barrier",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": -5,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 61,
+    "challenge_times_concluded": 28,
+    "challenge_user_victories": 10,
+    "challenge_user_defeats": 18,
+    "challenge_date_created": 1622346042,
+    "challenge_date_modified": 1633112520
+}
