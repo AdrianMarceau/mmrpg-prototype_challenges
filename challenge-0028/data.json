@@ -3,12 +3,12 @@
     "challenge_kind": "event",
     "challenge_creator": "",
     "challenge_name": "Duel At Ganryu Island",
-    "challenge_description": "Waves crash at Ganryu. --- The samurai waits for you. --- The challenge begins.",
+    "challenge_description": "Waves crash at Ganryu. --- The samurai waits for you. --- Good luck, young ronin!",
     "challenge_robot_limit": 5,
     "challenge_turn_limit": 18,
     "challenge_field_data": {
         "field_background": "sky-ridge",
-        "field_foreground": "wily-castle",
+        "field_foreground": "construction-site",
         "field_music": "sega-remix\/yamato-man-mm6",
         "values": {
             "hazards": {
@@ -33,28 +33,28 @@
                     "speed_mods": 4
                 },
                 "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
+                    "robot_switch": -5,
+                    "robot_focus": "active"
                 }
             },
             {
                 "robot_token": "shadow-man",
-                "robot_item": "explode-core",
+                "robot_image": "shadow-man_alt2",
+                "robot_item": "battery-circuit",
                 "robot_abilities": [
                     "buster-charge",
                     "bass-crush",
-                    "shadow-blade",
                     "skull-barrier",
-                    "galaxy-bomb",
-                    "crash-avenger"
+                    "crash-avenger",
+                    "shadow-overdrive"
                 ],
                 "counters": {
-                    "attack_mods": 2,
+                    "attack_mods": 3,
                     "defense_mods": 3,
                     "speed_mods": 2
                 },
                 "values": {
-                    "robot_switch": 0,
+                    "robot_switch": -5,
                     "robot_focus": ""
                 }
             },
@@ -66,16 +66,15 @@
                     "air-twister",
                     "rain-flush",
                     "gyro-attack",
-                    "water-shield",
-                    "water-overdrive"
+                    "laser-trident"
                 ],
                 "counters": {
                     "attack_mods": 2,
                     "defense_mods": 3,
-                    "speed_mods": 2
+                    "speed_mods": 3
                 },
                 "values": {
-                    "robot_switch": 0,
+                    "robot_switch": -5,
                     "robot_focus": ""
                 }
             },
@@ -87,27 +86,28 @@
                     "plant-barrier",
                     "air-twister",
                     "water-shield",
-                    "jewel-satellite"
+                    "shield-overdrive",
+                    "super-arm"
                 ],
                 "counters": {
                     "attack_mods": 2,
-                    "defense_mods": 2,
+                    "defense_mods": 3,
                     "speed_mods": 2
                 },
                 "values": {
-                    "robot_switch": 0,
+                    "robot_switch": -5,
                     "robot_focus": ""
                 }
             }
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 0,
+    "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 71,
-    "challenge_times_concluded": 37,
-    "challenge_user_victories": 13,
-    "challenge_user_defeats": 24,
+    "challenge_times_accessed": 88,
+    "challenge_times_concluded": 42,
+    "challenge_user_victories": 15,
+    "challenge_user_defeats": 27,
     "challenge_date_created": 1632369677,
-    "challenge_date_modified": 1634854218
+    "challenge_date_modified": 1635546707
 }
