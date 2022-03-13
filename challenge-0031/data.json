@@ -1,0 +1,89 @@
+{
+    "challenge_id": 31,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Horseshoes and Handgrenades",
+    "challenge_description": "",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 12,
+    "challenge_field_data": {
+        "field_background": "mineral-quarry",
+        "field_foreground": "cossack-citadel",
+        "field_music": "sega-remix\/grenade-man-mm8",
+        "values": {
+            "hazards": {
+                "black_holes": "both"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "grenade-man",
+                "robot_item": "space-core",
+                "robot_abilities": [
+                    "flash-bomb",
+                    "buster-charge",
+                    "explode-buster"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blast-man",
+                "robot_item": "flame-core",
+                "robot_abilities": [
+                    "solar-blaze",
+                    "explode-buster",
+                    "flame-shot",
+                    "explode-shot"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bomb-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "flash-bomb",
+                    "danger-bomb",
+                    "crash-avenger",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 21,
+    "challenge_times_concluded": 10,
+    "challenge_user_victories": 6,
+    "challenge_user_defeats": 4,
+    "challenge_date_created": 1645154516,
+    "challenge_date_modified": 1645312757
+}
