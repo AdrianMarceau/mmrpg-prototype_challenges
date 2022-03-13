@@ -3,7 +3,7 @@
     "challenge_kind": "event",
     "challenge_creator": "",
     "challenge_name": "Horseshoes and Handgrenades",
-    "challenge_description": "",
+    "challenge_description": "Almost only counts in horseshoes and handgrenades... but don't even try when it comes to handgrenade horseshoes! It's the worst party game ever -- try and stop Grenade Man with only neutral-core abilities to put an end to his dynamite-cocktail days!",
     "challenge_robot_limit": 3,
     "challenge_turn_limit": 12,
     "challenge_field_data": {
@@ -80,10 +80,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 21,
-    "challenge_times_concluded": 10,
-    "challenge_user_victories": 6,
-    "challenge_user_defeats": 4,
+    "challenge_times_accessed": 36,
+    "challenge_times_concluded": 15,
+    "challenge_user_victories": 7,
+    "challenge_user_defeats": 8,
     "challenge_date_created": 1645154516,
-    "challenge_date_modified": 1645312757
+    "challenge_date_modified": 1647214980
 }
