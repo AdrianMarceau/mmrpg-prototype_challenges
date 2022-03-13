@@ -3,7 +3,7 @@
     "challenge_kind": "event",
     "challenge_creator": "",
     "challenge_name": "Night of the Vampire",
-    "challenge_description": "You've accidently invited Shade Man and his coven into your home. Can you overcome their vampiric onslaught and vanquish their curse before the sun rises?",
+    "challenge_description": "You've accidently invited Shade Man and his coven into your home at the crack of dawn. Can you overcome their vampiric onslaught and vanquish their curse before the sun sets?",
     "challenge_robot_limit": 2,
     "challenge_turn_limit": 12,
     "challenge_field_data": {
@@ -145,5 +145,5 @@
     "challenge_user_victories": 10,
     "challenge_user_defeats": 18,
     "challenge_date_created": 1622346042,
-    "challenge_date_modified": 1633112520
+    "challenge_date_modified": 1645156747
 }
