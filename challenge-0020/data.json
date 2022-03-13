@@ -15,15 +15,17 @@
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "burner-man",
+                "robot_token": "trill",
                 "robot_item": "extra-life",
                 "robot_abilities": [
-                    "buster-shot"
+                    "ring-boomerang",
+                    "star-crash",
+                    "space-buster"
                 ],
                 "counters": {
                     "attack_mods": 0,
                     "defense_mods": 0,
-                    "speed_mods": -5
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -35,10 +37,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 19,
-    "challenge_times_concluded": 2,
-    "challenge_user_victories": 2,
+    "challenge_times_accessed": 53,
+    "challenge_times_concluded": 7,
+    "challenge_user_victories": 7,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1634006858
+    "challenge_date_modified": 1646373764
 }
