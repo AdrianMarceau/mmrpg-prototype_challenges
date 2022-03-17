@@ -15,17 +15,59 @@
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "trill",
-                "robot_item": "extra-life",
+                "robot_token": "blade-man",
                 "robot_abilities": [
-                    "ring-boomerang",
-                    "star-crash",
-                    "space-buster"
+                    "buster-shot"
                 ],
                 "counters": {
                     "attack_mods": 0,
                     "defense_mods": 0,
-                    "speed_mods": 5
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "sword-man",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": -1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pump-man",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "yamato-man",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
                 },
                 "values": {
                     "robot_switch": 0,
@@ -37,10 +79,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 53,
+    "challenge_times_accessed": 58,
     "challenge_times_concluded": 7,
     "challenge_user_victories": 7,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1646373764
+    "challenge_date_modified": 1647267419
 }
