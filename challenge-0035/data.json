@@ -1,0 +1,135 @@
+{
+    "challenge_id": 35,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Fists of Fury",
+    "challenge_description": "There are many martial artists in the Prototype, and Wind Man's gathered the greatest of them all to challenge the doctors! Win against him with neutral-core attacks, and he'll join your side -- lose, and you have to help out with his harvest! Good luck!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 12,
+    "challenge_field_data": {
+        "field_background": "rusty-scrapheap",
+        "field_foreground": "sky-ridge",
+        "field_music": "sega-remix\/wind-man-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "wind-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "wind-storm",
+                    "air-shooter",
+                    "dust-crusher",
+                    "energy-mode",
+                    "buster-charge",
+                    "gyro-attack"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "cut-man",
+                "robot_image": "cut-man_alt3",
+                "robot_item": "wind-core",
+                "robot_abilities": [
+                    "flame-sword",
+                    "rising-cutter",
+                    "gyro-attack",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pharaoh-man",
+                "robot_image": "pharaoh-man_alt3",
+                "robot_item": "wind-core",
+                "robot_abilities": [
+                    "flame-sword",
+                    "air-shooter",
+                    "wind-storm",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "skull-man",
+                "robot_image": "skull-man_alt2",
+                "robot_item": "wind-core",
+                "robot_abilities": [
+                    "skull-barrier",
+                    "crash-avenger",
+                    "buster-charge",
+                    "wind-storm",
+                    "air-twister"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "torch-man",
+                "robot_image": "torch-man_alt",
+                "robot_item": "wind-core",
+                "robot_abilities": [
+                    "fire-chaser",
+                    "air-twister",
+                    "buster-charge",
+                    "wind-storm"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 34,
+    "challenge_times_concluded": 8,
+    "challenge_user_victories": 1,
+    "challenge_user_defeats": 7,
+    "challenge_date_created": 1651685960,
+    "challenge_date_modified": 1653072168
+}
