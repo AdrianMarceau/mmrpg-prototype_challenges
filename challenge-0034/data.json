@@ -1,0 +1,114 @@
+{
+    "challenge_id": 34,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Through Rain, Sleet, or Snow",
+    "challenge_description": "This get-together of Robot Masters has caused the weather to go absolutely haywire! Every cloud has a silver lining though -- defeat Cloud Man using only neutral-core attacks, and maybe that'll motivate this couch potato to join your cause! Good luck!",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 18,
+    "challenge_field_data": {
+        "field_background": "sky-ridge",
+        "field_foreground": "lighting-control",
+        "field_music": "sega-remix\/cloud-man-mm7",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "both",
+                "frozen_footholds": "left-active",
+                "woolly_cloud": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "cloud-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "storm-bolt",
+                    "dynamo-bolt",
+                    "buster-charge",
+                    "wind-storm"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 4,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -5,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "solar-man",
+                "robot_image": "solar-man_alt2",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "solar-blaze",
+                    "pharaoh-shot",
+                    "atomic-crasher",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "water-shield",
+                    "rain-flush",
+                    "acid-glob",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blizzard-man",
+                "robot_image": "blizzard-man_alt2",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "blizzard-attack",
+                    "ice-slasher",
+                    "freeze-cracker",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 42,
+    "challenge_times_concluded": 19,
+    "challenge_user_victories": 8,
+    "challenge_user_defeats": 11,
+    "challenge_date_created": 1651609050,
+    "challenge_date_modified": 1653874407
+}
