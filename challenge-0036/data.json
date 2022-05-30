@@ -1,0 +1,82 @@
+{
+    "challenge_id": 36,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Flash Freeze",
+    "challenge_description": "",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 8,
+    "challenge_field_data": {
+        "field_background": "arctic-jungle",
+        "field_foreground": "pipe-station",
+        "field_music": "sega-remix\/freeze-man-mm7"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "ice-man",
+                "robot_image": "ice-man_alt3",
+                "robot_item": "water-core",
+                "robot_abilities": [
+                    "freeze-cracker",
+                    "bubble-spray",
+                    "buster-relay"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blast-man",
+                "robot_image": "blast-man_alt4",
+                "robot_item": "earth-core",
+                "robot_abilities": [
+                    "freeze-cracker",
+                    "oil-shooter",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "freeze-man",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "freeze-cracker"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 2,
+    "challenge_times_concluded": 1,
+    "challenge_user_victories": 1,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1652226035,
+    "challenge_date_modified": 1652228033
+}
