@@ -1,0 +1,65 @@
+{
+    "challenge_id": 32,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Stubborn as an Ox",
+    "challenge_description": "These robot masters are stuck in their own little worlds. Who needs stat changes anyways?",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 16,
+    "challenge_field_data": {
+        "field_background": "rocky-plateau",
+        "field_foreground": "spinning-greenhouse",
+        "field_music": "sega-remix\/hard-man-mm3"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "charge-man",
+                "robot_item": "explode-core",
+                "robot_abilities": [
+                    "charge-kick",
+                    "danger-bomb",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "guts-man",
+                "robot_item": "speed-diverter",
+                "robot_abilities": [
+                    "atomic-crasher",
+                    "charge-kick",
+                    "astro-crush",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 0,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1649553532,
+    "challenge_date_modified": 1649555399
+}
