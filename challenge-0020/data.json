@@ -15,9 +15,9 @@
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "blade-man",
+                "robot_token": "skull-man",
                 "robot_abilities": [
-                    "buster-shot"
+                    "skull-barrier"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -79,10 +79,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 58,
+    "challenge_times_accessed": 66,
     "challenge_times_concluded": 7,
     "challenge_user_victories": 7,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1647267419
+    "challenge_date_modified": 1656361986
 }
