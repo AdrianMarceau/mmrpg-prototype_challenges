@@ -1,0 +1,108 @@
+{
+    "challenge_id": 40,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Master of the Tomahawk",
+    "challenge_description": "Reported data suggests that the great warrior, Tomahawk Man, has been in hiding within the Prototype. His power, however, would be invaluable in escaping this digital world. Defeat this lone wolf using only neutral-type abilities and his strength is yours!",
+    "challenge_robot_limit": 5,
+    "challenge_turn_limit": 20,
+    "challenge_field_data": {
+        "field_background": "mineral-quarry",
+        "field_foreground": "construction-site",
+        "field_music": "sega-remix\/tomahawk-man-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "both"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "tomahawk-man",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "silver-tomahawk",
+                    "buster-charge",
+                    "flame-sword",
+                    "gyro-attack"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": -5,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "beetle-borg",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "attack-swap",
+                    "defense-break",
+                    "speed-break"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "beetle-borg",
+                "robot_image": "beetle-borg_alt",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "attack-swap",
+                    "defense-break",
+                    "speed-break"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "beetle-borg",
+                "robot_image": "beetle-borg_alt2",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "attack-swap",
+                    "defense-break",
+                    "speed-break"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 80,
+    "challenge_times_concluded": 49,
+    "challenge_user_victories": 16,
+    "challenge_user_defeats": 33,
+    "challenge_date_created": 1656015664,
+    "challenge_date_modified": 1661980381
+}
