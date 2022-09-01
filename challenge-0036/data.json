@@ -21,7 +21,7 @@
                 "robot_abilities": [
                     "freeze-cracker",
                     "bubble-spray",
-                    "buster-relay"
+                    "buster-charge"
                 ],
                 "counters": {
                     "attack_mods": 2,
@@ -78,5 +78,5 @@
     "challenge_user_victories": 1,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1652226035,
-    "challenge_date_modified": 1652228033
+    "challenge_date_modified": 1658466507
 }
