@@ -1,0 +1,161 @@
+{
+    "challenge_id": 39,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Community Challenge: Dust in the Wind",
+    "challenge_description": "Dust Man is behind on his janitorial duties, so he has assembled a clean dream team to help him take out the trash. Don't blow it! NOTE: This challenge was partially developed as a collaborative effort with the Mega Man RPG Prototype community.",
+    "challenge_robot_limit": 0,
+    "challenge_turn_limit": 15,
+    "challenge_field_data": {
+        "field_background": "rusty-scrapheap",
+        "field_foreground": "rocky-plateau",
+        "field_music": "sega-remix\/dust-man-mm4"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "dust-man",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "dust-crusher",
+                    "metal-press",
+                    "air-twister",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "roll",
+                "robot_item": "crystal-core",
+                "robot_abilities": [
+                    "roll-swing",
+                    "crystal-mind",
+                    "gemini-laser",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 1
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "rhythm",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "energy-break",
+                    "energy-mode",
+                    "rhythm-satellite",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "fire-man",
+                "robot_item": "super-capsule",
+                "robot_abilities": [
+                    "fire-storm",
+                    "fire-chaser",
+                    "solar-blaze",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": ""
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "junk-man",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "block-dropper",
+                    "super-arm",
+                    "dust-crusher",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "jewel-man",
+                "robot_item": "attack-booster",
+                "robot_abilities": [
+                    "crystal-buster",
+                    "jewel-satellite",
+                    "grab-buster",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": "",
+                    "defense_mods": 3,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pump-man",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "water-shield",
+                    "laser-trident",
+                    "grab-buster",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 91,
+    "challenge_times_concluded": 38,
+    "challenge_user_victories": 14,
+    "challenge_user_defeats": 24,
+    "challenge_date_created": 1655613545,
+    "challenge_date_modified": 1661964003
+}
