@@ -2,30 +2,51 @@
     "challenge_id": 32,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Stubborn as an Ox",
-    "challenge_description": "These robot masters are stuck in their own little worlds. Who needs stat changes anyways?",
-    "challenge_robot_limit": 2,
-    "challenge_turn_limit": 16,
+    "challenge_name": "A True Challenge",
+    "challenge_description": "There is no themeing, no newly unlockable Robot Masters, just a well rounded team for you to fight. Good luck!",
+    "challenge_robot_limit": 6,
+    "challenge_turn_limit": 30,
     "challenge_field_data": {
-        "field_background": "rocky-plateau",
-        "field_foreground": "spinning-greenhouse",
-        "field_music": "sega-remix\/hard-man-mm3"
+        "field_background": "atomic-furnace",
+        "field_foreground": "submerged-armory",
+        "field_music": "sega-remix\/boss-theme-mm3"
     },
     "challenge_target_data": {
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "charge-man",
-                "robot_item": "explode-core",
+                "robot_token": "proto-man",
+                "robot_item": "guard-module",
                 "robot_abilities": [
-                    "charge-kick",
-                    "danger-bomb",
+                    "proto-strike",
+                    "laser-trident",
+                    "copy-soul",
                     "buster-charge"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "spring-man",
+                "robot_image": "spring-man_alt3",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "astro-crush",
+                    "charge-kick",
+                    "knight-crusher",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 4
                 },
                 "values": {
                     "robot_switch": 0,
@@ -33,18 +54,79 @@
                 }
             },
             {
-                "robot_token": "guts-man",
-                "robot_item": "speed-diverter",
+                "robot_token": "bomb-man",
+                "robot_image": "bomb-man_alt3",
+                "robot_item": "reverse-module",
                 "robot_abilities": [
-                    "atomic-crasher",
-                    "charge-kick",
-                    "astro-crush",
+                    "danger-bomb",
+                    "flash-bomb",
+                    "crash-avenger",
                     "buster-charge"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt3",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush",
+                    "grab-buster",
+                    "laser-trident",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "quick-man",
+                "robot_image": "quick-man_alt3",
+                "robot_item": "sponge-circuit",
+                "robot_abilities": [
+                    "quick-strike",
+                    "quick-boomerang",
+                    "top-spin",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "yamato-man",
+                "robot_image": "yamato-man_alt3",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "yamato-spear",
+                    "needle-cannon",
+                    "flame-sword",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -56,10 +138,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 0,
-    "challenge_times_concluded": 0,
-    "challenge_user_victories": 0,
-    "challenge_user_defeats": 0,
+    "challenge_times_accessed": 51,
+    "challenge_times_concluded": 29,
+    "challenge_user_victories": 7,
+    "challenge_user_defeats": 22,
     "challenge_date_created": 1649553532,
-    "challenge_date_modified": 1649555399
+    "challenge_date_modified": 1658436697
 }
