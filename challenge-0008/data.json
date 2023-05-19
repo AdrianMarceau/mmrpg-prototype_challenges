@@ -1,11 +1,11 @@
 {
     "challenge_id": 8,
     "challenge_kind": "event",
-    "challenge_creator": 0,
+    "challenge_creator": "",
     "challenge_name": "Dreams of Electric Sheep",
     "challenge_description": "Defeat the fleecy foe Sheep Man and his band of electric goons in this nightmarish Special Event Mission! If you can defeat Sheep Man using only Neutral-type abilities you'll unlock him! Good luck!",
     "challenge_robot_limit": 2,
-    "challenge_turn_limit": 8,
+    "challenge_turn_limit": 12,
     "challenge_field_data": {
         "field_background": "power-plant",
         "field_foreground": "space-simulator",
@@ -108,5 +108,5 @@
     "challenge_user_victories": 208,
     "challenge_user_defeats": 1314,
     "challenge_date_created": 1552758261,
-    "challenge_date_modified": 1558993930
+    "challenge_date_modified": 1684527613
 }
