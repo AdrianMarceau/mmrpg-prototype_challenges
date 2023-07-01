@@ -1,0 +1,106 @@
+{
+    "challenge_id": 41,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Easy Nitro Rider",
+    "challenge_description": "Nitro Man's stunt club are chasing their greatest feat yet -- destroying the doctors! There's no special effects or wirework, no stunt pads.. this is as real as a stunt gag gets! Show these daredevils what for, and remember -- don't try this at home!",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 12,
+    "challenge_field_data": {
+        "field_background": "final-destination-2",
+        "field_foreground": "steel-mill",
+        "field_music": "sega-remix\/nitro-man-mm10",
+        "values": {
+            "hazards": {
+                "frozen_footholds": "right-active",
+                "super_blocks": "right-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "nitro-man",
+                "robot_item": "defense-diverter",
+                "robot_abilities": [
+                    "wheel-cutter",
+                    "buster-charge",
+                    "speed-break"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "nitro-man",
+                "robot_image": "nitro-man_alt",
+                "robot_item": "speed-booster",
+                "robot_abilities": [
+                    "charge-kick",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": -3,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "nitro-man",
+                "robot_image": "nitro-man_alt2",
+                "robot_item": "speed-booster",
+                "robot_abilities": [
+                    "charge-kick",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": -3,
+                    "defense_mods": 4,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "turbo-man",
+                "robot_item": "speed-diverter",
+                "robot_abilities": [
+                    "atomic-crasher",
+                    "pharaoh-shot",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 3,
+                    "speed_mods": -5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 60,
+    "challenge_times_concluded": 50,
+    "challenge_user_victories": 19,
+    "challenge_user_defeats": 31,
+    "challenge_date_created": 1684381538,
+    "challenge_date_modified": 1684614574
+}
