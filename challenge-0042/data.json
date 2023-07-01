@@ -1,0 +1,115 @@
+{
+    "challenge_id": 42,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Star-War of the Worlds",
+    "challenge_description": "\"kZZZtt.. g\u0335A\u0334l\u0338a\u0334x\u0336Y\u0337 \u0338.\u0337z\u0337 \u0334M\u0336-\u0338a\u0338n\u0338 \u0336h\u0336-\u0338-\u0337e\u0337r\u0334e\u0337e\u0338e\u0334 \u0335k\u0334z\u0334t\u0336t\u0337.\u0335.\u0336.\u0338 \u0336r\u0335a\u0334n\u0338 \u0336i\u0338n\u0337t\u0337o\u0335 KZZT .\u0334.\u0335 \u0338u\u0336n\u0334i\u0335d\u0336e\u0335n\u0336t\u0338i\u0335f\u0337i\u0334e\u0338d\u0335 \u0336h\u0336o\u0338s\u0336t\u0334i\u0337l\u0334e\u0335s\u0336 \u0338o\u0337n\u0337 \u0336l\u0337a\u0337s\u0338t\u0336 \u0336s\u0334c\u0337o\u0335u\u0336t\u0334i\u0334n\u0337g\u0336 \u0338m\u0336i\u0335s\u0337s\u0335i\u0338o\u0336n\u0338.\u0336.\u0338.\u0334 \u0336I\u0334 \u0335I n\u0334e\u0336e\u0335d\u0336 \u0336 \u0336i\u0337m\u0338m\u0336e\u0338d\u0336i\u0337a\u0337t\u0334e\u0336 \u0338b\u0335a\u0336c\u0335k\u0338u\u0338p\u0335!\"",
+    "challenge_robot_limit": 8,
+    "challenge_turn_limit": 75,
+    "challenge_field_data": {
+        "field_background": "space-simulator",
+        "field_foreground": "final-destination",
+        "field_music": "sega-remix\/galaxy-man-mm9",
+        "values": {
+            "hazards": {
+                "super_blocks": "left-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "galaxy-man",
+                "robot_image": "galaxy-man_alt9",
+                "robot_abilities": [
+                    "galaxy-bomb",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "mercury",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "grab-buster",
+                    "crystal-eye",
+                    "gemini-clone",
+                    "buster-charge",
+                    "laser-trident",
+                    "gemini-laser",
+                    "acid-glob"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "venus",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "bubble-bomb",
+                    "chain-blast",
+                    "flash-bomb",
+                    "buster-charge",
+                    "bubble-lead",
+                    "danger-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            },
+            {
+                "robot_token": "mars",
+                "robot_item": "weapon-upgrade",
+                "robot_abilities": [
+                    "photon-missile",
+                    "magnet-missile",
+                    "hornet-chaser",
+                    "buster-charge",
+                    "freeze-cracker",
+                    "dive-torpedo",
+                    "needle-cannon"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": "active"
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 16,
+    "challenge_times_concluded": 11,
+    "challenge_user_victories": 7,
+    "challenge_user_defeats": 4,
+    "challenge_date_created": 1684697278,
+    "challenge_date_modified": 1688238434
+}
