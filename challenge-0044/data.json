@@ -5,7 +5,7 @@
     "challenge_name": "Notice Me, Ice Man!",
     "challenge_description": "What's this? The Prototype's CPU usage is reaching near-critical levels... Oh no! It looks like Freeze Man is copying Ice Man's data on mass, just to seek their approval and attention! Don't give him a chance to show off his victory pose, stop this maniac!",
     "challenge_robot_limit": 6,
-    "challenge_turn_limit": 20,
+    "challenge_turn_limit": 30,
     "challenge_field_data": {
         "field_background": "arctic-jungle",
         "field_foreground": "arctic-jungle",
@@ -13,7 +13,8 @@
         "values": {
             "hazards": {
                 "frozen_footholds": "right-active",
-                "super_blocks": "left-active"
+                "super_blocks": "left-active",
+                "disco_balls": "left-active"
             }
         }
     },
@@ -161,10 +162,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 3,
-    "challenge_times_concluded": 2,
+    "challenge_times_accessed": 5,
+    "challenge_times_concluded": 3,
     "challenge_user_victories": 1,
-    "challenge_user_defeats": 1,
+    "challenge_user_defeats": 2,
     "challenge_date_created": 1684713955,
-    "challenge_date_modified": 1688237395
+    "challenge_date_modified": 1688715272
 }
