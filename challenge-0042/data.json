@@ -22,6 +22,7 @@
             {
                 "robot_token": "galaxy-man",
                 "robot_image": "galaxy-man_alt9",
+                "robot_item": "guard-module",
                 "robot_abilities": [
                     "galaxy-bomb",
                     "buster-charge"
@@ -44,7 +45,6 @@
                     "crystal-eye",
                     "gemini-clone",
                     "buster-charge",
-                    "laser-trident",
                     "gemini-laser",
                     "acid-glob"
                 ],
@@ -106,10 +106,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 16,
-    "challenge_times_concluded": 11,
-    "challenge_user_victories": 7,
+    "challenge_times_accessed": 18,
+    "challenge_times_concluded": 12,
+    "challenge_user_victories": 8,
     "challenge_user_defeats": 4,
     "challenge_date_created": 1684697278,
-    "challenge_date_modified": 1688238434
+    "challenge_date_modified": 1688746550
 }
