@@ -5,7 +5,7 @@
     "challenge_name": "Easy Nitro Rider",
     "challenge_description": "Nitro Man's stunt club are chasing their greatest feat yet -- destroying the doctors! There's no special effects or wirework, no stunt pads.. this is as real as a stunt gag gets! Show these daredevils what for, and remember -- don't try this at home!",
     "challenge_robot_limit": 1,
-    "challenge_turn_limit": 12,
+    "challenge_turn_limit": 20,
     "challenge_field_data": {
         "field_background": "final-destination-2",
         "field_foreground": "steel-mill",
@@ -79,12 +79,12 @@
                 "robot_item": "speed-diverter",
                 "robot_abilities": [
                     "atomic-crasher",
-                    "pharaoh-shot",
+                    "solar-blaze",
                     "buster-charge"
                 ],
                 "counters": {
                     "attack_mods": 4,
-                    "defense_mods": 3,
+                    "defense_mods": 4,
                     "speed_mods": -5
                 },
                 "values": {
@@ -97,10 +97,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 60,
-    "challenge_times_concluded": 50,
-    "challenge_user_victories": 19,
-    "challenge_user_defeats": 31,
+    "challenge_times_accessed": 74,
+    "challenge_times_concluded": 63,
+    "challenge_user_victories": 22,
+    "challenge_user_defeats": 41,
     "challenge_date_created": 1684381538,
-    "challenge_date_modified": 1684614574
+    "challenge_date_modified": 1688746416
 }
