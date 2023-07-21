@@ -1,0 +1,108 @@
+{
+    "challenge_id": 45,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Bounce Man's Challenge",
+    "challenge_description": "Fight Bounce Man!",
+    "challenge_robot_limit": 3,
+    "challenge_turn_limit": 30,
+    "challenge_field_data": {
+        "field_background": "spinning-greenhouse",
+        "field_foreground": "underground-laboratory",
+        "field_music": "sega-remix\/bounce-man-mm11",
+        "values": {
+            "hazards": {
+                "woolly_cloud": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "bounce-man",
+                "robot_item": "speed-diverter",
+                "robot_abilities": [
+                    "bounce-ball",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "solar-man",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "fire-chaser",
+                    "atomic-crasher",
+                    "flame-sword",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "rhythm",
+                "robot_image": "rhythm_alt2",
+                "robot_item": "battery-circuit",
+                "robot_abilities": [
+                    "defense-break",
+                    "core-laser",
+                    "buster-charge",
+                    "rhythm-satellite"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "spring-man",
+                "robot_item": "energy-capsule",
+                "robot_abilities": [
+                    "knight-crusher",
+                    "astro-crush",
+                    "buster-charge",
+                    "hard-knuckle"
+                ],
+                "counters": {
+                    "attack_mods": 1,
+                    "defense_mods": 1,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 21,
+    "challenge_times_concluded": 17,
+    "challenge_user_victories": 9,
+    "challenge_user_defeats": 8,
+    "challenge_date_created": 1688501137,
+    "challenge_date_modified": 1688764135
+}
