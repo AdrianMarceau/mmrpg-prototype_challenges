@@ -2,8 +2,8 @@
     "challenge_id": 45,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Bounce Man's Challenge",
-    "challenge_description": "Fight Bounce Man!",
+    "challenge_name": "Bounce Bash at Boing-Boing Park",
+    "challenge_description": "Welcome to Bounce Man's all-ages Hopxercise class at the new and fully digitally-recreated Boing Boing Park! Burn calories in style as you dodge fitness medicine balls! Defeat Bounce Man with neutral-core attacks, and he'll join you - all fees waived!",
     "challenge_robot_limit": 3,
     "challenge_turn_limit": 30,
     "challenge_field_data": {
@@ -40,9 +40,9 @@
                 "robot_token": "solar-man",
                 "robot_item": "battery-circuit",
                 "robot_abilities": [
-                    "fire-chaser",
+                    "pharaoh-shot",
                     "atomic-crasher",
-                    "flame-sword",
+                    "solar-blaze",
                     "buster-charge"
                 ],
                 "counters": {
@@ -61,9 +61,10 @@
                 "robot_item": "battery-circuit",
                 "robot_abilities": [
                     "defense-break",
-                    "core-laser",
+                    "field-support",
                     "buster-charge",
-                    "rhythm-satellite"
+                    "rhythm-satellite",
+                    "item-swap"
                 ],
                 "counters": {
                     "attack_mods": 1,
@@ -80,7 +81,7 @@
                 "robot_item": "energy-capsule",
                 "robot_abilities": [
                     "knight-crusher",
-                    "astro-crush",
+                    "atomic-crasher",
                     "buster-charge",
                     "hard-knuckle"
                 ],
@@ -99,10 +100,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 21,
-    "challenge_times_concluded": 17,
+    "challenge_times_accessed": 24,
+    "challenge_times_concluded": 19,
     "challenge_user_victories": 9,
-    "challenge_user_defeats": 8,
+    "challenge_user_defeats": 10,
     "challenge_date_created": 1688501137,
-    "challenge_date_modified": 1688764135
+    "challenge_date_modified": 1692730475
 }
