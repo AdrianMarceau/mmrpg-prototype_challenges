@@ -1,0 +1,110 @@
+{
+    "challenge_id": 46,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Turbo Man's Challenge",
+    "challenge_description": "",
+    "challenge_robot_limit": 7,
+    "challenge_turn_limit": 30,
+    "challenge_field_data": {
+        "field_background": "steel-mill",
+        "field_foreground": "underground-laboratory",
+        "field_music": "sega-remix\/turbo-man-mm7",
+        "values": {
+            "hazards": {
+                "crude_oil": "left-active",
+                "disco_balls": "left-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "turbo-man",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "scorch-wheel",
+                    "buster-charge",
+                    "scramble-thunder",
+                    "fire-chaser",
+                    "bounce-ball"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 4,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "ground-man",
+                "robot_image": "ground-man_alt4",
+                "robot_item": "target-module",
+                "robot_abilities": [
+                    "drill-blitz",
+                    "silver-tomahawk",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "galaxy-man",
+                "robot_image": "galaxy-man_alt3",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "gravity-hold",
+                    "galaxy-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 5,
+                    "speed_mods": 3
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "nitro-man",
+                "robot_image": "nitro-man_alt3",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "quick-strike",
+                    "wheel-cutter",
+                    "charge-kick"
+                ],
+                "counters": {
+                    "attack_mods": 3,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 5,
+    "challenge_times_concluded": 3,
+    "challenge_user_victories": 1,
+    "challenge_user_defeats": 2,
+    "challenge_date_created": 1693239505,
+    "challenge_date_modified": 1693288236
+}
