@@ -40,6 +40,7 @@
             },
             {
                 "robot_token": "clown-man",
+                "robot_image": "clown-man_alt9",
                 "robot_item": "chrono-circuit",
                 "robot_abilities": [
                     "thunder-beam",
@@ -125,5 +126,5 @@
     "challenge_user_victories": 1,
     "challenge_user_defeats": 13,
     "challenge_date_created": 1651000049,
-    "challenge_date_modified": 1653075417
+    "challenge_date_modified": 1693601861
 }
