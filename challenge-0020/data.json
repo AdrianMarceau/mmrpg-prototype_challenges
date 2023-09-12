@@ -7,17 +7,17 @@
     "challenge_robot_limit": 8,
     "challenge_turn_limit": 50,
     "challenge_field_data": {
-        "field_background": "atomic-furnace",
-        "field_foreground": "steel-mill",
-        "field_music": "sega-remix\/robot-museum-mm7"
+        "field_background": "prototype-subspace",
+        "field_foreground": "final-destination-3",
+        "field_music": "sega-remix\/tengu-man-mm8-v3"
     },
     "challenge_target_data": {
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "skull-man",
+                "robot_token": "rush",
                 "robot_abilities": [
-                    "skull-barrier"
+                    "buster-shot"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "robot_token": "sword-man",
+                "robot_token": "tango",
                 "robot_abilities": [
                     "buster-shot"
                 ],
@@ -45,7 +45,7 @@
                 }
             },
             {
-                "robot_token": "pump-man",
+                "robot_token": "beat",
                 "robot_abilities": [
                     "buster-shot"
                 ],
@@ -60,7 +60,52 @@
                 }
             },
             {
-                "robot_token": "yamato-man",
+                "robot_token": "heal-bot",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "trille-bot",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "auto",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "reggae",
                 "robot_abilities": [
                     "buster-shot"
                 ],
@@ -77,12 +122,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 0,
+    "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 66,
+    "challenge_times_accessed": 68,
     "challenge_times_concluded": 7,
     "challenge_user_victories": 7,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1656361986
+    "challenge_date_modified": 1694488023
 }
