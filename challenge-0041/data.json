@@ -76,6 +76,7 @@
             },
             {
                 "robot_token": "turbo-man",
+                "robot_image": "turbo-man_alt",
                 "robot_item": "speed-diverter",
                 "robot_abilities": [
                     "atomic-crasher",
@@ -102,5 +103,5 @@
     "challenge_user_victories": 22,
     "challenge_user_defeats": 41,
     "challenge_date_created": 1684381538,
-    "challenge_date_modified": 1688746416
+    "challenge_date_modified": 1693601814
 }
