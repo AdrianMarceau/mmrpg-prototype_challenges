@@ -2,10 +2,10 @@
     "challenge_id": 46,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Turbo Man's Challenge",
-    "challenge_description": "",
-    "challenge_robot_limit": 7,
-    "challenge_turn_limit": 30,
+    "challenge_name": "Burning Wheel",
+    "challenge_description": "Let's run it back - Turbo Man's started his own all-new Battle and Chase competition, with all new vehicle racers! Well, it might actually be kinda tough to outspeed Turbo Man.. so just focus on the battle part! Watch out for his Scorch Wheel!",
+    "challenge_robot_limit": 8,
+    "challenge_turn_limit": 43,
     "challenge_field_data": {
         "field_background": "steel-mill",
         "field_foreground": "underground-laboratory",
@@ -27,13 +27,13 @@
                     "scorch-wheel",
                     "buster-charge",
                     "scramble-thunder",
-                    "fire-chaser",
+                    "atomic-crasher",
                     "bounce-ball"
                 ],
                 "counters": {
                     "attack_mods": 5,
                     "defense_mods": 4,
-                    "speed_mods": 4
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -84,11 +84,12 @@
                 "robot_abilities": [
                     "quick-strike",
                     "wheel-cutter",
-                    "charge-kick"
+                    "charge-kick",
+                    "buster-charge"
                 ],
                 "counters": {
                     "attack_mods": 3,
-                    "defense_mods": 3,
+                    "defense_mods": 2,
                     "speed_mods": 5
                 },
                 "values": {
@@ -99,12 +100,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 0,
+    "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 5,
-    "challenge_times_concluded": 3,
-    "challenge_user_victories": 1,
-    "challenge_user_defeats": 2,
+    "challenge_times_accessed": 11,
+    "challenge_times_concluded": 6,
+    "challenge_user_victories": 3,
+    "challenge_user_defeats": 3,
     "challenge_date_created": 1693239505,
-    "challenge_date_modified": 1693288236
+    "challenge_date_modified": 1693945127
 }
