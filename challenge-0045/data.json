@@ -38,6 +38,7 @@
             },
             {
                 "robot_token": "solar-man",
+                "robot_image": "solar-man_alt2",
                 "robot_item": "battery-circuit",
                 "robot_abilities": [
                     "pharaoh-shot",
@@ -77,6 +78,7 @@
             },
             {
                 "robot_token": "spring-man",
+                "robot_image": "spring-man_alt3",
                 "robot_item": "impact-core",
                 "robot_abilities": [
                     "knight-crusher",
@@ -104,5 +106,5 @@
     "challenge_user_victories": 9,
     "challenge_user_defeats": 11,
     "challenge_date_created": 1688501137,
-    "challenge_date_modified": 1692731379
+    "challenge_date_modified": 1693601733
 }
