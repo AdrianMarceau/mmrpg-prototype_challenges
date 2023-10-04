@@ -40,12 +40,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 1,
+    "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
     "challenge_times_accessed": 9,
     "challenge_times_concluded": 5,
     "challenge_user_victories": 3,
     "challenge_user_defeats": 2,
     "challenge_date_created": 1613166146,
-    "challenge_date_modified": 1693760599
+    "challenge_date_modified": 1696441900
 }
