@@ -1,0 +1,100 @@
+{
+    "challenge_id": 47,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Commando Man's Boot Camp",
+    "challenge_description": "",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 20,
+    "challenge_field_data": {
+        "field_background": "egyptian-excavation",
+        "field_foreground": "submerged-armory",
+        "field_music": "sega-remix\/commando-man-mm10",
+        "values": {
+            "hazards": {
+                "crude_oil": "both",
+                "super_blocks": "right-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "commando-man",
+                "robot_abilities": [
+                    "commando-bomb",
+                    "needle-cannon",
+                    "hard-knuckle",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "search-man",
+                "robot_abilities": [
+                    "commando-bomb",
+                    "drill-blitz"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "search-man",
+                "robot_abilities": [
+                    "commando-bomb",
+                    "drill-blitz"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "search-man",
+                "robot_abilities": [
+                    "commando-bomb",
+                    "drill-blitz"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 0,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1696438546,
+    "challenge_date_modified": 1696438917
+}
