@@ -2,7 +2,7 @@
     "challenge_id": 39,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Community Challenge: Dust in the Wind",
+    "challenge_name": "Dust in the Wind",
     "challenge_description": "Dust Man is behind on his janitorial duties, so he has assembled a clean dream team to help him take out the trash. Don't blow it! NOTE: This challenge was partially developed as a collaborative effort with the Mega Man RPG Prototype community.",
     "challenge_robot_limit": 0,
     "challenge_turn_limit": 15,
@@ -157,5 +157,5 @@
     "challenge_user_victories": 14,
     "challenge_user_defeats": 24,
     "challenge_date_created": 1655613545,
-    "challenge_date_modified": 1661964003
+    "challenge_date_modified": 1696438489
 }
