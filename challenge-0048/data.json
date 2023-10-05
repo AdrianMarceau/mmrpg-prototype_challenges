@@ -1,0 +1,154 @@
+{
+    "challenge_id": 48,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Just Springing In the Rain",
+    "challenge_description": "Large portions of the Prototype are being drowned in rain water, and data points to it originating from a severe rainstorm generating from a gang of Toad Men. Bring your umbrellas, robots and doctors -- things are about to get wet and wild!",
+    "challenge_robot_limit": 8,
+    "challenge_turn_limit": 25,
+    "challenge_field_data": {
+        "field_background": "rainy-sewers",
+        "field_foreground": "submerged-armory",
+        "field_music": "sega-remix\/toad-man-mm4",
+        "values": {
+            "hazards": {
+                "foamy_bubbles": "left",
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "toad-man",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 3,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": -4,
+                    "defense_mods": 2,
+                    "speed_mods": -4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt2",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": -4,
+                    "defense_mods": 2,
+                    "speed_mods": -4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt3",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": -4,
+                    "defense_mods": 2,
+                    "speed_mods": -4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt4",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": -4,
+                    "defense_mods": 2,
+                    "speed_mods": -4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "toad-man",
+                "robot_image": "toad-man_alt5",
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "rain-flush"
+                ],
+                "counters": {
+                    "attack_mods": -4,
+                    "defense_mods": 2,
+                    "speed_mods": -4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pirate-man",
+                "robot_image": "pirate-man_alt",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "crash-avenger",
+                    "flash-bomb",
+                    "freeze-cracker"
+                ],
+                "counters": {
+                    "attack_mods": 4,
+                    "defense_mods": 1,
+                    "speed_mods": 4
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 2,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 2,
+    "challenge_date_created": 1696441909,
+    "challenge_date_modified": 1696475393
+}
