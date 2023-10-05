@@ -29,9 +29,9 @@
                     "buster-charge"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -45,9 +45,9 @@
                     "drill-blitz"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
                 },
                 "values": {
                     "robot_switch": 0,
@@ -61,9 +61,9 @@
                     "drill-blitz"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
                 },
                 "values": {
                     "robot_switch": 0,
@@ -77,9 +77,9 @@
                     "drill-blitz"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": 4,
+                    "defense_mods": 4,
+                    "speed_mods": 4
                 },
                 "values": {
                     "robot_switch": 0,
@@ -96,5 +96,5 @@
     "challenge_user_victories": 0,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1696438546,
-    "challenge_date_modified": 1696438917
+    "challenge_date_modified": 1696475457
 }
