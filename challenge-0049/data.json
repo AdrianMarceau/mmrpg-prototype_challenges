@@ -1,0 +1,54 @@
+{
+    "challenge_id": 49,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Earth, Be Forever Beautiful (Keep Challenge Hidden!)",
+    "challenge_description": "",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 75,
+    "challenge_field_data": {
+        "field_background": "final-destination-3",
+        "field_foreground": "final-destination-2",
+        "field_music": "sega-remix\/duo-mm8",
+        "values": {
+            "hazards": {
+                "super_blocks": "left-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "duo",
+                "robot_item": "guard-module",
+                "robot_abilities": [
+                    "energy-fist",
+                    "gravity-hold",
+                    "star-crash",
+                    "lunar-memory",
+                    "buster-charge",
+                    "core-laser"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 1,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 4,
+    "challenge_user_victories": 1,
+    "challenge_user_defeats": 3,
+    "challenge_date_created": 1696623033,
+    "challenge_date_modified": 1696637772
+}
