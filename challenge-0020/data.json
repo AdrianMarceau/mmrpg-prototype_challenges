@@ -17,7 +17,11 @@
             {
                 "robot_token": "rush",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "attack-boost",
+                    "defense-boost",
+                    "speed-boost",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -32,7 +36,11 @@
             {
                 "robot_token": "tango",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "attack-break",
+                    "defense-break",
+                    "speed-break",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -47,7 +55,11 @@
             {
                 "robot_token": "beat",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "attack-swap",
+                    "defense-swap",
+                    "speed-swap",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -62,7 +74,10 @@
             {
                 "robot_token": "heal-bot",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "energy-boost",
+                    "energy-mode",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -77,7 +92,10 @@
             {
                 "robot_token": "trille-bot",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "energy-break",
+                    "energy-mode",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -92,7 +110,11 @@
             {
                 "robot_token": "auto",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "light-buster",
+                    "wily-buster",
+                    "cossack-buster",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -107,7 +129,11 @@
             {
                 "robot_token": "reggae",
                 "robot_abilities": [
-                    "buster-shot"
+                    "buster-shot",
+                    "core-shield",
+                    "core-laser",
+                    "buster-charge",
+                    "buster-relay"
                 ],
                 "counters": {
                     "attack_mods": 0,
@@ -123,11 +149,11 @@
     },
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
-    "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 69,
+    "challenge_flag_hidden": 1,
+    "challenge_times_accessed": 70,
     "challenge_times_concluded": 7,
     "challenge_user_victories": 7,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1695918417
+    "challenge_date_modified": 1696697189
 }
