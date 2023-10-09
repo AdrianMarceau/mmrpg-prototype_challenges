@@ -13,6 +13,7 @@
         "values": {
             "hazards": {
                 "foamy_bubbles": "left",
+                "frozen_footholds": "right-active",
                 "super_blocks": "right-bench"
             }
         }
@@ -45,7 +46,7 @@
                 ],
                 "counters": {
                     "attack_mods": -4,
-                    "defense_mods": 2,
+                    "defense_mods": 1,
                     "speed_mods": -4
                 },
                 "values": {
@@ -62,7 +63,7 @@
                 ],
                 "counters": {
                     "attack_mods": -4,
-                    "defense_mods": 2,
+                    "defense_mods": 1,
                     "speed_mods": -4
                 },
                 "values": {
@@ -79,7 +80,7 @@
                 ],
                 "counters": {
                     "attack_mods": -4,
-                    "defense_mods": 2,
+                    "defense_mods": 1,
                     "speed_mods": -4
                 },
                 "values": {
@@ -96,7 +97,7 @@
                 ],
                 "counters": {
                     "attack_mods": -4,
-                    "defense_mods": 2,
+                    "defense_mods": 1,
                     "speed_mods": -4
                 },
                 "values": {
@@ -113,7 +114,7 @@
                 ],
                 "counters": {
                     "attack_mods": -4,
-                    "defense_mods": 2,
+                    "defense_mods": 1,
                     "speed_mods": -4
                 },
                 "values": {
@@ -145,10 +146,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 4,
-    "challenge_times_concluded": 2,
+    "challenge_times_accessed": 7,
+    "challenge_times_concluded": 3,
     "challenge_user_victories": 0,
-    "challenge_user_defeats": 2,
+    "challenge_user_defeats": 3,
     "challenge_date_created": 1696441909,
-    "challenge_date_modified": 1696475393
+    "challenge_date_modified": 1696651356
 }
