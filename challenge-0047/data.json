@@ -2,7 +2,7 @@
     "challenge_id": 47,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Commando Man's Boot Camp",
+    "challenge_name": "Commando Man's Boot Camp [WIP]",
     "challenge_description": "",
     "challenge_robot_limit": 4,
     "challenge_turn_limit": 20,
@@ -96,5 +96,5 @@
     "challenge_user_victories": 0,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1696438546,
-    "challenge_date_modified": 1696475457
+    "challenge_date_modified": 1696910345
 }
