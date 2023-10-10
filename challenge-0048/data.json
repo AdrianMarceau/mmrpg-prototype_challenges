@@ -2,7 +2,7 @@
     "challenge_id": 48,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Just Springing In the Rain",
+    "challenge_name": "Just Springing In the Rain [WIP]",
     "challenge_description": "Large portions of the Prototype are being drowned in rain water, and data points to it originating from a severe rainstorm generating from a gang of Toad Men. Bring your umbrellas, robots and doctors -- things are about to get wet and wild!",
     "challenge_robot_limit": 8,
     "challenge_turn_limit": 25,
@@ -151,5 +151,5 @@
     "challenge_user_victories": 0,
     "challenge_user_defeats": 3,
     "challenge_date_created": 1696441909,
-    "challenge_date_modified": 1696651356
+    "challenge_date_modified": 1696910352
 }
