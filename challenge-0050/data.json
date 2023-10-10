@@ -1,0 +1,106 @@
+{
+    "challenge_id": 50,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Tornado Man's Challenge [WIP]",
+    "challenge_description": "",
+    "challenge_robot_limit": 4,
+    "challenge_turn_limit": 40,
+    "challenge_field_data": {
+        "field_background": "sky-ridge",
+        "field_foreground": "rusty-scrapheap",
+        "field_music": "sega-remix\/tornado-man-mm9",
+        "values": {
+            "hazards": {
+                "frozen_footholds": "left-active"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "tornado-man",
+                "robot_item": "energy-upgrade",
+                "robot_abilities": [
+                    "tornado-blow",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "splash-woman",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "laser-trident",
+                    "water-shield",
+                    "bubble-bomb",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "shadow-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "vamp-crush",
+                    "bass-crush",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "burner-man",
+                "robot_item": "reverse-module",
+                "robot_abilities": [
+                    "scorch-wheel",
+                    "solar-blaze",
+                    "atomic-crasher",
+                    "buster-charge"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 2,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1696909946,
+    "challenge_date_modified": 1696910877
+}
