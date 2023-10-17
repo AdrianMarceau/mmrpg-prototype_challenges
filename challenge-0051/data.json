@@ -1,0 +1,138 @@
+{
+    "challenge_id": 51,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Skull Man's Challenge Mission",
+    "challenge_description": "Horror movies!",
+    "challenge_robot_limit": 5,
+    "challenge_turn_limit": 20,
+    "challenge_field_data": {
+        "field_background": "robosaur-boneyard",
+        "field_foreground": "prototype-complete",
+        "field_music": "sega-remix\/skull-man-mm4"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "skull-man",
+                "robot_abilities": [
+                    "skull-barrier"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "shade-man",
+                "robot_image": "shade-man_alt9",
+                "robot_abilities": [
+                    "vamp-crush"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "pharaoh-man",
+                "robot_image": "pharaoh-man_alt3",
+                "robot_abilities": [
+                    "pharaoh-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "slash-man",
+                "robot_image": "slash-man_alt4",
+                "robot_abilities": [
+                    "slash-claw"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "junk-man",
+                "robot_image": "junk-man_alt2",
+                "robot_abilities": [
+                    "drill-blitz"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "gemini-man",
+                "robot_image": "gemini-man_alt3",
+                "robot_abilities": [
+                    "gemini-laser"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bubble-man",
+                "robot_abilities": [
+                    "bubble-lead"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 0,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 0,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1697565377,
+    "challenge_date_modified": 1697566129
+}
