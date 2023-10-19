@@ -2,7 +2,7 @@
     "challenge_id": 49,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Earth, Be Forever Beautiful (Keep Challenge Hidden!)",
+    "challenge_name": "Earth, Be Forever Beautiful (unfinished)",
     "challenge_description": "",
     "challenge_robot_limit": 1,
     "challenge_turn_limit": 75,
@@ -50,5 +50,5 @@
     "challenge_user_victories": 1,
     "challenge_user_defeats": 3,
     "challenge_date_created": 1696623033,
-    "challenge_date_modified": 1696911095
+    "challenge_date_modified": 1697684056
 }
