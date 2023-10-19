@@ -21,10 +21,11 @@
         "player_robots": [
             {
                 "robot_token": "tornado-man",
-                "robot_item": "energy-upgrade",
+                "robot_item": "field-booster",
                 "robot_abilities": [
                     "tornado-blow",
-                    "buster-charge"
+                    "buster-charge",
+                    "air-twister"
                 ],
                 "counters": {
                     "attack_mods": 5,
@@ -97,10 +98,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 2,
+    "challenge_times_accessed": 3,
     "challenge_times_concluded": 0,
     "challenge_user_victories": 0,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1696909946,
-    "challenge_date_modified": 1696910877
+    "challenge_date_modified": 1697683889
 }
