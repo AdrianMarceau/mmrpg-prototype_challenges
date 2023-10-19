@@ -31,7 +31,7 @@
                 "counters": {
                     "attack_mods": 5,
                     "defense_mods": 5,
-                    "speed_mods": 5
+                    "speed_mods": 0
                 },
                 "values": {
                     "robot_switch": 0,
@@ -49,7 +49,7 @@
                 "counters": {
                     "attack_mods": -3,
                     "defense_mods": 4,
-                    "speed_mods": 3
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -67,7 +67,7 @@
                 "counters": {
                     "attack_mods": -3,
                     "defense_mods": 4,
-                    "speed_mods": 3
+                    "speed_mods": 5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -98,10 +98,10 @@
     "challenge_reward_data": [],
     "challenge_flag_published": 1,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 74,
+    "challenge_times_accessed": 75,
     "challenge_times_concluded": 63,
     "challenge_user_victories": 22,
     "challenge_user_defeats": 41,
     "challenge_date_created": 1684381538,
-    "challenge_date_modified": 1693601814
+    "challenge_date_modified": 1697736439
 }
