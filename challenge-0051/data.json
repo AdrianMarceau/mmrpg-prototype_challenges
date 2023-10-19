@@ -2,7 +2,7 @@
     "challenge_id": 51,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Skull Man's Challenge Mission",
+    "challenge_name": "Skull Man's Challenge Mission [unfinished]",
     "challenge_description": "Horror movies!",
     "challenge_robot_limit": 5,
     "challenge_turn_limit": 20,
@@ -134,5 +134,5 @@
     "challenge_user_victories": 0,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1697565377,
-    "challenge_date_modified": 1697566129
+    "challenge_date_modified": 1697683979
 }
