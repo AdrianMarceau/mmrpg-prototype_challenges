@@ -2,7 +2,7 @@
     "challenge_id": 32,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "A True Challenge",
+    "challenge_name": "A True Challenge [unfinished]",
     "challenge_description": "There is no themeing, no newly unlockable Robot Masters, just a well rounded team for you to fight. Good luck!",
     "challenge_robot_limit": 6,
     "challenge_turn_limit": 30,
@@ -143,5 +143,5 @@
     "challenge_user_victories": 7,
     "challenge_user_defeats": 22,
     "challenge_date_created": 1649553532,
-    "challenge_date_modified": 1658436697
+    "challenge_date_modified": 1697684005
 }
