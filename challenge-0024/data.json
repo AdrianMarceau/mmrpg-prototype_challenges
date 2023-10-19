@@ -2,7 +2,7 @@
     "challenge_id": 24,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Air Man the Undefeatable [WIP]",
+    "challenge_name": "Air Man the Undefeatable [unfinished]",
     "challenge_description": "",
     "challenge_robot_limit": 2,
     "challenge_turn_limit": 8,
@@ -42,12 +42,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 1,
+    "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
     "challenge_times_accessed": 9,
     "challenge_times_concluded": 5,
     "challenge_user_victories": 3,
     "challenge_user_defeats": 2,
     "challenge_date_created": 1613166146,
-    "challenge_date_modified": 1696911106
+    "challenge_date_modified": 1697684018
 }
