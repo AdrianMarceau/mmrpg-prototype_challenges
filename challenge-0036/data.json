@@ -2,7 +2,7 @@
     "challenge_id": 36,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Flash Freeze",
+    "challenge_name": "Flash Freeze [unfinished]",
     "challenge_description": "",
     "challenge_robot_limit": 1,
     "challenge_turn_limit": 12,
@@ -80,5 +80,5 @@
     "challenge_user_victories": 1,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1652226035,
-    "challenge_date_modified": 1662524377
+    "challenge_date_modified": 1697683995
 }
