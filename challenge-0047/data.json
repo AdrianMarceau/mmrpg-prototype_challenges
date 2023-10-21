@@ -2,7 +2,7 @@
     "challenge_id": 47,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Commando Man's Boot Camp [WIP]",
+    "challenge_name": "Commando Man's Boot Camp [unfinished]",
     "challenge_description": "Commando Man wants you to take on the challenge of his hellish bootcamp! He's built army strong, and he's looking to train warriors with enough strength, will, and faith to join him in battle. Do your best - do or die!",
     "challenge_robot_limit": 5,
     "challenge_turn_limit": 35,
@@ -116,12 +116,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 1,
+    "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 3,
-    "challenge_times_concluded": 0,
-    "challenge_user_victories": 0,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 1,
+    "challenge_user_victories": 1,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1696438546,
-    "challenge_date_modified": 1696999322
+    "challenge_date_modified": 1697852198
 }
