@@ -2,7 +2,7 @@
     "challenge_id": 50,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Tornado Man's Challenge [WIP]",
+    "challenge_name": "Tornado Man's Challenge [unfinished]",
     "challenge_description": "",
     "challenge_robot_limit": 4,
     "challenge_turn_limit": 40,
@@ -96,12 +96,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 1,
+    "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 3,
-    "challenge_times_concluded": 0,
-    "challenge_user_victories": 0,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 1,
+    "challenge_user_victories": 1,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1696909946,
-    "challenge_date_modified": 1697683889
+    "challenge_date_modified": 1697852221
 }
