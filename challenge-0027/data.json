@@ -2,7 +2,7 @@
     "challenge_id": 27,
     "challenge_kind": "event",
     "challenge_creator": "",
-    "challenge_name": "Night of the Vampire [WIP]",
+    "challenge_name": "Night of the Vampire [unfinished]",
     "challenge_description": "You've accidently invited Shade Man and his coven into your home at the crack of dawn. Can you overcome their vampiric onslaught and vanquish their curse before the sun sets?",
     "challenge_robot_limit": 2,
     "challenge_turn_limit": 12,
@@ -103,12 +103,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 1,
+    "challenge_flag_published": 0,
     "challenge_flag_hidden": 0,
-    "challenge_times_accessed": 61,
+    "challenge_times_accessed": 62,
     "challenge_times_concluded": 28,
     "challenge_user_victories": 10,
     "challenge_user_defeats": 18,
     "challenge_date_created": 1622346042,
-    "challenge_date_modified": 1697677708
+    "challenge_date_modified": 1697852163
 }
