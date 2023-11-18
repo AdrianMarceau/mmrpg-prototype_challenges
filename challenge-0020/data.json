@@ -15,7 +15,7 @@
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "rush",
+                "robot_token": "burner-man",
                 "robot_abilities": [
                     "buster-shot",
                     "attack-boost",
@@ -24,121 +24,9 @@
                     "buster-relay"
                 ],
                 "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 1
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "tango",
-                "robot_abilities": [
-                    "buster-shot",
-                    "attack-break",
-                    "defense-break",
-                    "speed-break",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": -1
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "beat",
-                "robot_abilities": [
-                    "buster-shot",
-                    "attack-swap",
-                    "defense-swap",
-                    "speed-swap",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "heal-bot",
-                "robot_abilities": [
-                    "buster-shot",
-                    "energy-boost",
-                    "energy-mode",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "trille-bot",
-                "robot_abilities": [
-                    "buster-shot",
-                    "energy-break",
-                    "energy-mode",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "auto",
-                "robot_abilities": [
-                    "buster-shot",
-                    "light-buster",
-                    "wily-buster",
-                    "cossack-buster",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "reggae",
-                "robot_abilities": [
-                    "buster-shot",
-                    "core-shield",
-                    "core-laser",
-                    "buster-charge",
-                    "buster-relay"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
+                    "attack_mods": -5,
+                    "defense_mods": -5,
+                    "speed_mods": -5
                 },
                 "values": {
                     "robot_switch": 0,
@@ -149,11 +37,11 @@
     },
     "challenge_reward_data": [],
     "challenge_flag_published": 0,
-    "challenge_flag_hidden": 1,
-    "challenge_times_accessed": 70,
-    "challenge_times_concluded": 7,
-    "challenge_user_victories": 7,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 77,
+    "challenge_times_concluded": 14,
+    "challenge_user_victories": 14,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1696697189
+    "challenge_date_modified": 1700326140
 }
