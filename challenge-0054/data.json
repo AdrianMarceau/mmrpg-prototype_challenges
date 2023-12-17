@@ -1,0 +1,162 @@
+{
+    "challenge_id": 54,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Legacy Collection 3: The End of Dr. Wily!?",
+    "challenge_description": "",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 80,
+    "challenge_field_data": {
+        "field_background": "genesis-tower",
+        "field_foreground": "genesis-tower",
+        "field_music": "sega-remix\/wily-fortress-3-mm3",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "needle-man",
+                "robot_abilities": [
+                    "needle-cannon",
+                    "metal-press"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "magnet-man",
+                "robot_abilities": [
+                    "magnet-missile",
+                    "magnetic-shockwave"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "gemini-man",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "gemini-laser",
+                    "gemini-clone"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "hard-man",
+                "robot_abilities": [
+                    "hard-knuckle",
+                    "atomic-crasher"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "top-man",
+                "robot_abilities": [
+                    "top-spin",
+                    "charge-kick"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "snake-man",
+                "robot_abilities": [
+                    "search-snake",
+                    "snake-bite"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "spark-man",
+                "robot_abilities": [
+                    "spark-shock",
+                    "spark-life"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "shadow-man",
+                "robot_abilities": [
+                    "shadow-blade",
+                    "vamp-crush"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 3,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 3,
+    "challenge_date_created": 1702234770,
+    "challenge_date_modified": 1702534506
+}
