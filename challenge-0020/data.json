@@ -27,112 +27,7 @@
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "treble",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "rush",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "tango",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "beat",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "big-eye",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "power-muscler",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "heal-bot",
-                "robot_abilities": [
-                    "buster-shot"
-                ],
-                "counters": {
-                    "attack_mods": 0,
-                    "defense_mods": 0,
-                    "speed_mods": 0
-                },
-                "values": {
-                    "robot_switch": 0,
-                    "robot_focus": ""
-                }
-            },
-            {
-                "robot_token": "dark-frag",
+                "robot_token": "mega-man",
                 "robot_abilities": [
                     "buster-shot"
                 ],
@@ -156,5 +51,5 @@
     "challenge_user_victories": 14,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1702229641
+    "challenge_date_modified": 1702793982
 }
