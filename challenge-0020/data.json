@@ -9,24 +9,137 @@
     "challenge_field_data": {
         "field_background": "robot-museum",
         "field_foreground": "prototype-subspace",
-        "field_music": "sega-remix\/tengu-man-mm8-v3"
+        "field_music": "sega-remix\/tengu-man-mm8-v3",
+        "values": {
+            "hazards": {
+                "crude_oil": "both",
+                "foamy_bubbles": "both",
+                "frozen_footholds": "both",
+                "super_blocks": "both",
+                "black_holes": "both",
+                "disco_balls": "both",
+                "woolly_cloud": "both",
+                "acid_globs": "both"
+            }
+        }
     },
     "challenge_target_data": {
         "player_token": "player",
         "player_robots": [
             {
-                "robot_token": "burner-man",
+                "robot_token": "treble",
                 "robot_abilities": [
-                    "buster-shot",
-                    "attack-boost",
-                    "defense-boost",
-                    "speed-boost",
-                    "buster-relay"
+                    "buster-shot"
                 ],
                 "counters": {
-                    "attack_mods": -5,
-                    "defense_mods": -5,
-                    "speed_mods": -5
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "rush",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "tango",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "beat",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "big-eye",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "power-muscler",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "heal-bot",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "dark-frag",
+                "robot_abilities": [
+                    "buster-shot"
+                ],
+                "counters": {
+                    "attack_mods": 0,
+                    "defense_mods": 0,
+                    "speed_mods": 0
                 },
                 "values": {
                     "robot_switch": 0,
@@ -36,12 +149,12 @@
         ]
     },
     "challenge_reward_data": [],
-    "challenge_flag_published": 0,
-    "challenge_flag_hidden": 0,
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 1,
     "challenge_times_accessed": 77,
     "challenge_times_concluded": 14,
     "challenge_user_victories": 14,
     "challenge_user_defeats": 0,
     "challenge_date_created": 1600900057,
-    "challenge_date_modified": 1700326140
+    "challenge_date_modified": 1702229641
 }
