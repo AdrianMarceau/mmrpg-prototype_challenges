@@ -1,0 +1,161 @@
+{
+    "challenge_id": 56,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Legacy Collection 5: Proto Man\u2019s Trap!?",
+    "challenge_description": "",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 80,
+    "challenge_field_data": {
+        "field_background": "final-destination-2",
+        "field_foreground": "final-destination-2",
+        "field_music": "sega-remix\/proto-fortress-mm5",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "gravity-man",
+                "robot_abilities": [
+                    "gravity-hold",
+                    "bright-burst"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "wave-man",
+                "robot_abilities": [
+                    "water-wave",
+                    "laser-trident"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "stone-man",
+                "robot_abilities": [
+                    "power-stone",
+                    "block-dropper"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "gyro-man",
+                "robot_abilities": [
+                    "gyro-attack",
+                    "tornado-blow"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "star-man",
+                "robot_abilities": [
+                    "star-crash",
+                    "ring-boomerang"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "charge-man",
+                "robot_abilities": [
+                    "charge-kick",
+                    "scorch-wheel"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "napalm-man",
+                "robot_abilities": [
+                    "napalm-bomb",
+                    "photon-missile"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "crystal-man",
+                "robot_abilities": [
+                    "crystal-eye",
+                    "crystal-mind"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 1,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1702235934,
+    "challenge_date_modified": 1702534642
+}
