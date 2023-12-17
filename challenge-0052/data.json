@@ -1,0 +1,163 @@
+{
+    "challenge_id": 52,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Legacy Collection: Powered Up",
+    "challenge_description": "",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 80,
+    "challenge_field_data": {
+        "field_background": "light-laboratory",
+        "field_foreground": "light-laboratory",
+        "field_music": "sega-remix\/wily-fortress-2-mm1",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "cut-man",
+                "robot_abilities": [
+                    "rolling-cutter",
+                    "rising-cutter"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "guts-man",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "super-throw",
+                    "super-arm"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "ice-man",
+                "robot_abilities": [
+                    "ice-breath",
+                    "ice-slasher"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "bomb-man",
+                "robot_abilities": [
+                    "hyper-bomb",
+                    "danger-bomb"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "fire-man",
+                "robot_abilities": [
+                    "fire-storm",
+                    "fire-chaser"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "elec-man",
+                "robot_abilities": [
+                    "thunder-strike",
+                    "thunder-beam"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "time-man",
+                "robot_abilities": [
+                    "time-arrow",
+                    "time-slow"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "oil-man",
+                "robot_item": "electric-core",
+                "robot_abilities": [
+                    "oil-shooter",
+                    "oil-slider"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 4,
+    "challenge_times_concluded": 4,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 4,
+    "challenge_date_created": 1702234246,
+    "challenge_date_modified": 1702534438
+}
