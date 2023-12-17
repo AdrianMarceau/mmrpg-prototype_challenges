@@ -1,0 +1,163 @@
+{
+    "challenge_id": 57,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "Legacy Collection 6: The Greatest Battle of All Time!!",
+    "challenge_description": "",
+    "challenge_robot_limit": 1,
+    "challenge_turn_limit": 80,
+    "challenge_field_data": {
+        "field_background": "royal-palace",
+        "field_foreground": "genesis-tower",
+        "field_music": "sega-remix\/wily-fortress-1-mm6",
+        "values": {
+            "hazards": {
+                "super_blocks": "right-bench"
+            }
+        }
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "blizzard-man",
+                "robot_item": "impact-core",
+                "robot_abilities": [
+                    "blizzard-attack",
+                    "frost-wave"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "centaur-man",
+                "robot_abilities": [
+                    "centaur-arrow",
+                    "centaur-flash"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "flame-man",
+                "robot_abilities": [
+                    "oil-shooter",
+                    "flame-blast"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "knight-man",
+                "robot_abilities": [
+                    "knight-crusher",
+                    "hard-knuckle"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "plant-man",
+                "robot_abilities": [
+                    "plant-barrier",
+                    "leaf-shield",
+                    "energy-boost"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "tomahawk-man",
+                "robot_abilities": [
+                    "silver-tomahawk",
+                    "rising-cutter"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "wind-man",
+                "robot_abilities": [
+                    "wind-storm",
+                    "dust-crusher"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "yamato-man",
+                "robot_abilities": [
+                    "yamato-spear",
+                    "flame-sword"
+                ],
+                "counters": {
+                    "attack_mods": 2,
+                    "defense_mods": 2,
+                    "speed_mods": 2
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 0,
+    "challenge_times_accessed": 2,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1702236132,
+    "challenge_date_modified": 1702534675
+}
