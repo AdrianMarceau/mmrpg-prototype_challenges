@@ -1,0 +1,92 @@
+{
+    "challenge_id": 58,
+    "challenge_kind": "event",
+    "challenge_creator": "",
+    "challenge_name": "The Robots Are Revolting",
+    "challenge_description": "",
+    "challenge_robot_limit": 2,
+    "challenge_turn_limit": 15,
+    "challenge_field_data": {
+        "field_background": "gentle-countryside",
+        "field_foreground": "gentle-countryside",
+        "field_music": "sega-remix\/yellow-devil-mm1"
+    },
+    "challenge_target_data": {
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_token": "oil-man",
+                "robot_image": "oil-man_alt4",
+                "robot_abilities": [
+                    "oil-shooter"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "blade-man",
+                "robot_image": "blade-man_alt4",
+                "robot_abilities": [
+                    "rising-cutter"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "torch-man",
+                "robot_image": "torch-man_alt4",
+                "robot_abilities": [
+                    "flame-sword"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            },
+            {
+                "robot_token": "wave-man",
+                "robot_image": "wave-man_alt4",
+                "robot_abilities": [
+                    "water-wave"
+                ],
+                "counters": {
+                    "attack_mods": 5,
+                    "defense_mods": 5,
+                    "speed_mods": 5
+                },
+                "values": {
+                    "robot_switch": 0,
+                    "robot_focus": ""
+                }
+            }
+        ]
+    },
+    "challenge_reward_data": [],
+    "challenge_flag_published": 1,
+    "challenge_flag_hidden": 1,
+    "challenge_times_accessed": 1,
+    "challenge_times_concluded": 0,
+    "challenge_user_victories": 0,
+    "challenge_user_defeats": 0,
+    "challenge_date_created": 1702348329,
+    "challenge_date_modified": 1702491488
+}
